@@ -1,0 +1,25 @@
+How do I login to GeM?
+Where do I go to upload a new product on GeM?
+What do I do if I don't find the right product category for my product?
+How do I request for a new product category or modification of an existing category?
+What is the brand approval process on GeM?
+How do I quickly create a catalog by cloning an existing one?
+What is the difference between golden and non-golden parameters?
+What do I do if my product already exists in the marketplace?
+As an OEM, what details do I need to provide about FSSAI license number?
+As a reseller, what details do I need to provide about FSSAI license number?
+How do I declare country of origin and local content as per Make in India policy?
+What options do I have if I am a MSE or startup seller?
+How do I select states and districts to specify where I can supply my product?
+What images do I need to upload with the product details?
+Where can I see the status of my published catalogs?
+If I'm unable to find my product brand in the list when uploading a catalog, how do I request that it be added?
+When cloning an existing catalog, what's the minimum change I need to make before publishing to avoid creating a duplicate?
+As a reseller, if I disagree with the Make in India declaration made by the OEM, how can I indicate that?
+If the OEM of my product brand isn't registered on GeM, what disclaimer will show regarding Make in India content?
+When declaring local content percentage for Make in India, what address should I use for manufacturing location?
+For certain product categories, is providing FSSAI license number mandatory or optional?
+If I select a district when specifying where I can supply my product, will zip codes get auto-selected?
+What happens if I incorrectly enter product FSSAI number in the seller FSSAI field?
+How many different images do I need to upload for each product and what guidelines apply?
+After my catalog is published, where can I view the status and details of my listed offerings?

@@ -1,0 +1,309 @@
+"What is the Clone Catalogue functionality on GeM and how does it work?
+","The Clone Catalogue functionality on GeM allows users to quickly and easily create a new catalogue by replicating an existing one. This can save a significant amount of time and effort, especially when creating multiple catalogues with similar products and services.
+
+Here's how the Clone Catalogue functionality works:
+
+1. **Identify the Source Catalogue:**
+   - Select the existing catalogue that you want to clone. This catalogue should contain the products and services that you want to include in the new catalogue.
+
+
+2. **Click on the 'Clone' Button:**
+   - Once you have selected the source catalogue, click on the 'Clone' button. This button is usually located at the top of the catalogue page.
+
+
+3. **Select the New Catalogue Type:**
+   - In the pop-up window that appears, select the type of the new catalogue that you want to create. You can choose from the following options:
+     - Dynamic Catalogue: This type of catalogue is automatically updated with the latest products and services from the selected source catalogue.
+     - Static Catalogue: This type of catalogue is a snapshot of the products and services from the selected source catalogue at the time of cloning.
+
+
+4. **Enter the Catalogue Details:**
+   - Provide a name and description for the new catalogue. You can also select the category and sub-category for the catalogue.
+
+
+5. **Click on the 'Clone' Button:**
+   - Once you have entered all the necessary details, click on the 'Clone' button to create the new catalogue.
+
+The cloning process may take a few minutes, depending on the size of the source catalogue. Once the process is complete, you will be able to view the new catalogue in your GeM account.
+
+Key Points to Remember:
+
+- You can clone both dynamic and static catalogues.
+- When cloning a dynamic catalogue, the new catalogue will be automatically updated with the latest products and services from the source catalogue.
+- When cloning a static catalogue, the new catalogue will be a snapshot of the products and services from the source catalogue at the time of cloning.
+- You can create multiple catalogues by cloning an existing catalogue.
+- Cloning a catalogue is a quick and easy way to create a new catalogue with similar products and services."
+"How can I find the catalog ID of an existing catalog to clone?
+","To find the catalog ID of an existing catalog to clone:
+
+1. Log in to the GeM portal.
+2. Click on the ""Catalogues"" tab.
+3. Select the ""Existing Catalogues"" option.
+4. Search for the catalog you want to clone.
+5. Select the catalog and click on the ""Action"" button.
+6. Choose the ""Clone Catalog"" option.
+7. The catalog ID will be displayed in the pop-up window.
+
+You can also find the catalog ID of an existing catalog by checking the URL of the catalog page. The catalog ID will be the string of numbers and letters after the ""/catalog/"" section of the URL.
+
+For example, if the URL of the catalog page is https://gem.gov.in/catalog/1234567890, then the catalog ID is 1234567890.
+
+Once you have found the catalog ID of the existing catalog, you can use it to clone the catalog. To do this, follow these steps:
+
+1. Log in to the GeM portal.
+2. Click on the ""Catalogues"" tab.
+3. Select the ""Clone Catalog"" option.
+4. Enter the catalog ID of the existing catalog in the ""Catalog ID"" field.
+5. Click on the ""Clone Catalog"" button.
+
+The cloned catalog will be created and will be available in the ""My Catalogues"" section of the GeM portal."
+"Do I need to make any changes to the cloned catalog specifications before publishing or can I publish an identical copy?
+","Yes, you need to make changes to the cloned catalog specifications before publishing.
+
+While cloning a catalog, all the items, suppliers, services, etc. are copied. But the catalog owner/admin needs to make necessary changes to the specifications as per their requirement. Few reasons why you need to make changes are:
+
+- Pricing: The pricing of the items may have changed since the catalog was cloned. You need to update the pricing information accordingly.
+- Availability: The availability of the items may have changed since the catalog was cloned. You need to update the availability information accordingly.
+- Specifications: The specifications of the items may have changed since the catalog was cloned. You need to update the specifications accordingly.
+- Images: The images of the items may have changed since the catalog was cloned. You need to update the images accordingly.
+- Description: The description of the items may have changed since the catalog was cloned. You need to update the description accordingly.
+
+Once you have made the necessary changes, you can publish the catalog."
+"What is the purpose of the dialog box consent to confirm cloning specifications?
+","The purpose of the dialog box ""Consent to confirm cloning specifications"" is to ensure that the user is aware of the implications and potential risks associated with cloning a tender. This dialog box appears when a user attempts to clone a tender and provides information about the changes that will be made to the cloned tender, including any modifications to the tender document, terms and conditions, and evaluation criteria. The user is required to read and understand this information and confirm their consent to proceed with the cloning process. This dialog box helps to protect both the user and the platform by ensuring that the user is fully informed about the consequences of cloning a tender before they proceed, and that they are taking responsibility for the accuracy and completeness of the cloned tender documentation."
+"After cloning a catalog, what steps do I need to take before publishing the new catalog?
+","1. **Update Catalog Details**:
+   - Verify and update the catalog name, description, and categories to align with your specific requirements. Ensure that the catalog information is accurate and relevant.
+
+2. **Assign Suppliers**:
+   - Add the desired suppliers to the cloned catalog by navigating to the ""Suppliers"" section. Choose the suppliers whose products or services you want to offer in your new catalog.
+
+3. **Add Products**:
+   - Include the necessary products or services in your cloned catalog. Upload product details, descriptions, images, and other relevant information. Make sure the product information is complete and up-to-date.
+
+4. **Set Pricing and Availability**:
+   - Define the pricing and availability of products in the cloned catalog. Ensure that the pricing is competitive and aligned with your business goals. Specify the stock availability to manage customer expectations.
+
+5. **Review and Edit Specifications**:
+   - Carefully review the product specifications and descriptions in the cloned catalog. Make any necessary edits or corrections to ensure accuracy and consistency. This step is crucial for maintaining high-quality product information.
+
+6. **Configure Shipping and Delivery Options**:
+   - Set up shipping and delivery options for the products in your cloned catalog. Specify the shipping charges, delivery timeframes, and any other relevant details. Ensure that these options are aligned with your business policies and customer expectations.
+
+7. **Define Payment Terms**:
+   - Specify the payment terms for purchases made through your cloned catalog. This may include the accepted payment methods, credit terms, and any applicable discounts or promotions.
+
+8. **Assign Approvers**:
+   - If applicable, assign approvers who will review and approve purchase orders or contracts generated from the cloned catalog. This step ensures proper authorization and control over purchases.
+
+9. **Set Catalog Permissions**:
+   - Configure user permissions for the cloned catalog to determine who can access, view, and purchase products from it. Assign appropriate roles and permissions to users or user groups.
+
+10. **Verify Catalog Settings**:
+    - Double-check all the settings, configurations, and options in the cloned catalog to ensure they are correct and aligned with your business requirements. Review the catalog thoroughly to identify and address any potential issues before publishing.
+
+11. **Publish the Catalog**:
+    - Once you are satisfied with the cloned catalog and have completed all necessary steps, you can proceed to publish it. Publishing the catalog makes it live and accessible to users on the GeM platform."
+"What restrictions are there in terms of making changes to specifications when cloning a catalog?
+","1. **Product Specifications:**
+
+Changes to the product specifications are not allowed when cloning a catalog. This includes changes to the product name, description, brand, model number, technical specifications, and other details.
+
+2. **Supplier Details:**
+
+Supplier details cannot be changed when cloning a catalog. This includes the supplier's name, address, contact information, and other relevant details.
+
+3. **Price and Availability:**
+
+The price and availability of the products cannot be changed when cloning a catalog. The cloned catalog will inherit the same price and availability as the original catalog.
+
+4. **Images and Attachments:**
+
+Images and attachments associated with the products in the original catalog cannot be changed when cloning the catalog. The cloned catalog will inherit the same images and attachments as the original catalog.
+
+5. **Approval Status:**
+
+The approval status of the products in the original catalog is not carried over to the cloned catalog. The products in the cloned catalog will have a status of ""Draft"" and will need to be approved before they can be purchased.
+
+6. **Catalog Validity:**
+
+The validity period of the original catalog is not carried over to the cloned catalog. The cloned catalog will have its own validity period, which can be set during the cloning process.
+
+7. **Catalog Price:**
+
+The catalog price of the original catalog is not carried over to the cloned catalog. The cloned catalog will have its own catalog price, which can be set during the cloning process."
+"When should I use the catalog pair functionality vs. cloning a catalog?
+","**Use the catalog pair functionality when:**
+
+- You want to create a new catalog that is identical to an existing catalog, except for a few minor changes.
+- You want to create a new catalog that is a subset of an existing catalog.
+- You want to create a new catalog that is a combination of two or more existing catalogs.
+
+**Use cloning a catalog when:**
+
+- You want to create a new catalog that is completely independent of the original catalog.
+- You want to create a new catalog that is based on the structure of an existing catalog, but with different items and prices.
+- You want to create a new catalog that is based on the items and prices of an existing catalog, but with a different structure."
+"Can I clone catalogs across different product categories or only within the same category?
+","You can clone catalogs across different product categories.
+
+The cloned catalog will inherit the properties and settings of the original catalog, including the product categories, products, and suppliers. You can then modify the cloned catalog to adapt it to the specific needs of the new product category.
+
+Cloning catalogs across different product categories can be useful for creating new catalogs quickly and easily, or for transferring products from one category to another."
+"Is there a limit to how many times I can clone an existing catalog?
+","Yes, there is a limit to how many times you can clone an existing catalog. The limit is 10 clones per catalog. This limit is in place to help ensure that the GeM platform remains performant and scalable. If you need to create more than 10 clones of a catalog, you can contact GeM support for assistance."
+"Will cloning a catalog copy over all specifications or are some excluded?
+","Yes, cloning a catalog will copy over all specifications, including product attributes, images, and approvals. This ensures that the cloned catalog contains all the necessary information for buyers to make informed purchasing decisions.
+
+However, there are a few exceptions to this rule. Custom fields and attachments are not copied over during the cloning process. This is because custom fields are specific to the original catalog and attachments are typically large files that can slow down the cloning process.
+
+If you need to include custom fields and attachments in the cloned catalog, you will need to do so manually after the cloning process is complete.
+
+Here is a summary of what is and is not copied over when you clone a catalog:
+
+**Copied over:**
+
+* Product attributes
+* Images
+* Approvals
+* Suppliers
+* Prices
+
+**Not copied over:**
+
+* Custom fields
+* Attachments
+* Purchase orders
+* Contracts
+* Invoices"
+"What happens if I try to publish a cloned catalog without making any changes to specifications?
+","If you try to publish a cloned catalog without making any changes to the specifications, the system will reject it. 
+
+The cloned catalog must be edited and have at least one change in specifications before it can be published. This is because the cloned catalog is considered a new catalog, and it must have its own unique set of specifications.
+
+To make changes to the specifications of a cloned catalog, you can:
+
+* Add new products or services
+* Edit the existing products or services
+* Change the prices of the products or services
+* Add or remove images of the products or services
+* Change the descriptions of the products or services
+
+Once you have made at least one change to the specifications of the cloned catalog, you can publish it."
+"How long does it take to clone and publish a new catalog based on an existing one?
+","The time taken to clone and publish a new catalog based on an existing one depends on the size of the existing catalog, the complexity of the catalog, and the availability of resources. In general, it should not take more than a few hours to clone and publish a new catalog. If the catalog is large or complex, it may take longer. You can contact GeM customer support for more information or assistance."
+"If I clone a catalog and make changes, will it affect the original catalog at all or are they separate?
+","No, cloning a catalog and making changes to the cloned catalog will not affect the original catalog in any way. The cloned catalog is a completely separate entity from the original catalog. Any changes you make to the cloned catalog, such as adding or removing items, will not be reflected in the original catalog. Similarly, any changes you make to the original catalog will not be reflected in the cloned catalog.
+
+Cloning a catalog can be a useful way to create a new catalog that is based on an existing catalog, but with some modifications. For example, you might clone a catalog and then make changes to the item descriptions or prices. Alternatively, you might clone a catalog and then remove some of the items. Once you have made the desired changes to the cloned catalog, you can then publish it and make it available to your users."
+"When I publish a cloned catalog, will it completely replace the existing catalog or be published as a separate new catalog?
+","When you publish a cloned catalog, it will be published as a separate new catalog. It will not replace the existing catalog.
+
+This means that any changes you make to the cloned catalog will not affect the original catalog. Additionally, any items that you add to the cloned catalog will not be added to the original catalog.
+
+This feature can be useful if you want to create a new catalog that is based on an existing catalog, but you want to make changes to the new catalog without affecting the original catalog."
+"Is there a way to selectively choose which specifications get copied over when cloning versus copying everything?
+","Yes, there is a way to selectively choose which specifications get copied over when cloning versus copying everything. Here are the steps:
+
+1. Log in to the GeM portal.
+2. Select the product you want to clone.
+3. Click on the ""Clone"" button.
+4. The ""Clone Product"" window will appear.
+5. In the ""Specification"" section, you can select the specifications you want to copy over.
+6. Click on the ""Clone"" button.
+
+The new product will be created with the selected specifications copied over.
+
+Here are some additional things to keep in mind:
+
+* You can only copy over specifications that are relevant to the new product.
+* Some specifications may not be available for copying, depending on the product.
+* You can also choose to copy over all of the specifications by clicking on the ""Copy All"" button."
+"Do any of the catalog IDs or SKUs get automatically changed when cloning a catalog or do I need to manually update them?
+","No, the catalog ID and SKUs do not get automatically changed when cloning a catalog. You must manually update them to ensure that the cloned catalog has unique identifiers. The catalog ID is a unique 12-digit number assigned to each catalog, while the SKU is a unique alphanumeric code assigned to each item in the catalog. Manually updating these identifiers helps maintain the integrity of the cloned catalog and prevents conflicts with the original catalog."
+"Can I clone a catalog and directly edit the cloned version before publishing or do I have to publish first?
+","Yes, you can clone a catalog and directly edit the cloned version before publishing. Here's how you can do it:
+
+1. Log in to the GeM portal.
+2. Click on ""My Catalogs"" from the dashboard.
+3. Select the catalog you want to clone and click on the ""Clone"" button.
+4. Enter a name for the cloned catalog and click on the ""Clone"" button again.
+5. The cloned catalog will be created and you can directly edit it without publishing it first.
+
+To edit the cloned catalog:
+
+1. Click on the ""Edit"" button for the cloned catalog.
+2. Make the necessary changes to the catalog.
+3. Click on the ""Save"" button to save your changes.
+
+You can continue editing the cloned catalog until you are satisfied with the changes. Once you are ready to publish the catalog, click on the ""Publish"" button.
+
+Please note that you will not be able to edit the original catalog once you have cloned it. If you want to make changes to the original catalog, you will need to create a new clone and make the changes there.
+
+I hope this answers your question. If you have any other questions, please feel free to ask."
+"Is there a limit to how many catalogs I can clone from the same original catalog?
+","No, there is no limit to how many catalogs you can clone from the same original catalog. You can clone as many catalogs as you need to meet the specific requirements of your organization."
+"If there are errors in the original catalog I clone from, will those errors transfer over to the cloned catalog?
+","Yes, if there are errors in the original catalog you clone from, those errors will transfer over to the cloned catalog. This includes errors in product data, pricing, and availability. It is important to carefully review the original catalog before cloning it to ensure there are no errors. If you find any errors, you should correct them before cloning the catalog.
+
+Here are some specific examples of errors that can transfer over to the cloned catalog:
+
+* **Product data errors:** This includes errors in product names, descriptions, images, and specifications. For example, a product may be listed with the wrong name or description, or it may have an incorrect image.
+* **Pricing errors:** This includes errors in the prices of products. For example, a product may be listed with an incorrect price, or it may be listed as being on sale when it is not.
+* **Availability errors:** This includes errors in the availability of products. For example, a product may be listed as being in stock when it is actually out of stock, or it may be listed as being available for shipping to certain countries when it is not.
+
+If you find any errors in the cloned catalog, you can correct them by editing the product data, pricing, or availability. However, it is important to note that if you make any changes to the cloned catalog, those changes will not be reflected in the original catalog."
+"If I make updates to the original catalog later on, is there any way to sync those changes to the cloned catalogs?
+","Yes, you can sync changes made to the original catalog to the cloned catalogs. To do this, follow these steps:
+
+1. In the GeM portal, navigate to the ""Catalogs"" section.
+2. Select the original catalog that you made changes to.
+3. Click on the ""Actions"" button and select ""Sync Changes to Cloned Catalogs"".
+4. A pop-up window will appear confirming the action. Click on ""Yes"" to proceed.
+
+Once you click on ""Yes"", the system will start syncing the changes from the original catalog to all the cloned catalogs. The progress of the sync process can be tracked in the ""Sync Status"" column of the cloned catalogs.
+
+Please note that:
+
+* The sync process may take some time, depending on the size of the changes and the number of cloned catalogs.
+* During the sync process, the cloned catalogs will be temporarily unavailable.
+* Any changes made to the cloned catalogs while the sync process is in progress will be overwritten by the changes from the original catalog.
+
+We recommend that you perform the sync process during off-peak hours to minimize any impact on your users."
+"How can I track which catalogs originated as clones versus created manually?
+","To track which catalogs originated as clones versus created manually, you can follow these steps:
+
+1. Log in to your GeM account.
+2. Click on the ""Catalogs"" tab.
+3. In the ""Catalogs"" table, look for the ""Origin"" column.
+4. The ""Origin"" column will indicate whether the catalog was created manually or cloned from another catalog.
+
+Here is a table that summarizes the possible values in the ""Origin"" column:
+
+| Origin | Description |
+|---|---|
+| Manual | The catalog was created manually. |
+| Clone | The catalog was cloned from another catalog. |
+
+You can also use the GeM API to retrieve the origin of a catalog. The following API call will return the origin of the catalog with the specified ID:
+
+```
+GET /api/v1/catalogs/{catalog_id}
+```
+
+The response from the API call will include a field called ""origin"" that will indicate whether the catalog was created manually or cloned from another catalog."
+Is cloning catalogs recommended as a standard practice or only in certain situations?,"Cloning catalogs is recommended as a standard practice for various reasons:
+
+1. **Backup and Recovery:** Cloning catalogs serves as a backup mechanism, allowing you to maintain an identical copy of your catalog. This copy can be utilized for recovery purposes in case the original catalog becomes corrupted or inaccessible due to technical issues, human error, or other unforeseen events. By having a cloned catalog, you can quickly restore your data and minimize downtime.
+
+2. **Parallel Processing:** Cloning catalogs enables parallel processing of large datasets. By creating multiple clones, you can distribute processing tasks across different machines or cloud instances, significantly reducing the overall processing time. This approach is particularly beneficial for complex or resource-intensive operations, such as data analysis, machine learning model training, or large-scale simulations.
+
+3. **Data Isolation:** Cloning catalogs provides a means of data isolation, especially in situations where multiple users or applications need to access and modify data independently. By creating separate clones for different users or applications, you can ensure that changes made by one party do not affect the data integrity or consistency for others. This isolation helps prevent data conflicts and maintains the integrity of the original catalog.
+
+4. **Testing and Development:** Cloning catalogs facilitates testing and development activities. You can create a clone to test new features, apply updates, or validate changes without affecting the live catalog. This approach allows developers and administrators to experiment with changes in a controlled environment, identify potential issues, and ensure that the changes function properly before implementing them in the production environment.
+
+5. **Collaboration and Sharing:** Cloning catalogs enables collaboration and data sharing among team members, departments, or organizations. By creating and sharing cloned catalogs, users can access and work on the same data simultaneously without modifying the original catalog. This facilitates collaborative projects, streamlines workflows, and promotes knowledge sharing.
+
+While cloning catalogs is generally recommended as a standard practice, there may be situations where it is not necessary or suitable. For example, if you have a small and static catalog that is infrequently accessed or modified, cloning may not provide significant benefits. Additionally, if storage space or computational resources are limited, the overhead associated with maintaining multiple clones may outweigh the advantages.
+
+In summary, cloning catalogs is a recommended standard practice for data protection, parallel processing, data isolation, testing and development, and collaboration. However, it is essential to consider your specific data and usage requirements to determine whether cloning is necessary and beneficial for your organization."

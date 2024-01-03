@@ -1,0 +1,23 @@
+How do I login to the OEM panel as a seller?
+What are the different options in the OEM panel for managing approvals and catalogs as a seller?
+How can I get authorization codes from the OEMs I work with to upload my catalog?
+What is the process for OEMs to approve my catalog after I upload it?
+How will I know if an OEM has rejected or discontinued my catalog?
+What should I do if my authorization code is marked invalid by an OEM?
+What are the different seller statuses shown in the OEM panel?
+What are quadrants 2 and 3 mentioned in the document? What's the difference in OEM controls for them?
+Can you explain the catalog pair and discontinue options for OEMs?
+What steps should I take if an OEM discontinues my catalog?
+How can I get my catalog approved by the OEM after fixing any issues?
+What kind of requests can I raise through the OEM panel as a seller?
+Who can I contact for any other queries on the OEM seller approval process?
+Is there a limit on the number of authorization codes an OEM can provide me?
+What criteria does an OEM use to approve or reject my catalog? Is there a standard checklist I can view?
+If an OEM rejects my catalog, is there an appeals process I can follow before reuploading?
+Are OEMs required to provide a detailed reason when discontinuing or rejecting my catalog?
+How frequently are OEMs required to review pending catalog approval requests? Is there an SLA defined?
+Can I submit multiple catalog approval requests under different categories for the same OEM?
+Can I use the same authorization code for multiple categories when uploading catalogs?
+Is the OEM panel accessible on mobile apps or just the website?
+What kind of catalog changes require me to do a fresh upload versus minor update?
+Can OEMs deactivate my seller account directly or do they need to go through GeM for that?

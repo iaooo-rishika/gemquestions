@@ -1,0 +1,645 @@
+"How do I register as a buyer on GeM to participate in forward auctions?
+","1. **Visit the GeM Portal:**
+
+Navigate to the GeM portal at https://gem.gov.in/.
+
+
+2. **Click on ""Register Now"":**
+
+Locate the ""Register Now"" button on the homepage and click on it.
+
+
+3. **Select Buyer Registration:**
+
+From the available options, select ""Buyer Registration"" to register as a buyer on GeM.
+
+
+4. **Provide Basic Details:**
+
+Enter your basic details, including your name, email address, mobile number, and PAN number.
+
+
+5. **Scan and Upload Documents:**
+
+Upload scanned copies of the following documents:
+
+- PAN Card
+- GST Registration Certificate (if applicable)
+- Incorporation Certificate or Partnership Deed (if applicable)
+- Cancelled Cheque or Bank Statement (for bank account verification)
+
+
+6. **Submit Application:**
+
+Review the information you have entered and click on the ""Submit"" button to submit your registration application.
+
+
+7. **Generate OTP:**
+
+You will receive a One-Time Password (OTP) on your registered mobile number. Enter the OTP in the designated field and click on ""Verify.""
+
+
+8. **Verify Details:**
+
+A verification link will be sent to your registered email address. Click on the link to verify your details.
+
+
+9. **Receive Login Credentials:**
+
+Once your registration is verified, you will receive your login credentials, including username and password, on your registered email address.
+
+
+10. **Activate Account:**
+
+Activate your account by clicking on the activation link sent to your email.
+
+
+11. **Log In:**
+
+Use your login credentials to log in to the GeM portal.
+
+
+12. **Complete Profile Information:**
+
+Complete your profile information, including personal details, business details, and bank account details.
+
+
+13. **Add Suppliers:**
+
+Add the suppliers or vendors you want to participate in forward auctions with by searching for them using their GSTIN or name.
+
+
+14. **Participate in Forward Auctions:**
+
+Once you have completed the registration process and added suppliers, you can actively participate in forward auctions on the GeM portal.
+
+
+
+**Note:**
+
+- Ensure that you have a valid Digital Signature Certificate (DSC) issued by a recognized certifying authority (CA) to participate in forward auctions on GeM.
+- You can update your profile information, including your address and bank account details, at any time after registration.
+- For further assistance or queries, you can contact the GeM customer support team through email, phone, or chat."
+"What are the steps to login and access the forward auction module after registering as a buyer?
+","1. **Visit the GeM Portal:**
+
+>* Navigate to the GeM portal at https://gem.gov.in.
+
+2. **Login to GeM:**
+
+>* Click on the ""Login"" button located at the top right corner of the homepage.
+>* Enter your registered GeM User ID and Password.
+>* Click on the ""Login"" button again to access your account.
+
+3. **Access Forward Auction Module:**
+
+>* Once you are logged in, hover over the ""Buyer"" tab located at the top of the page.
+>* A drop-down menu will appear. Select ""Forward Auction"" from the list.
+
+4. **Forward Auction Dashboard:**
+
+>* You will now be directed to the Forward Auction Dashboard. This dashboard displays various details related to upcoming and completed forward auctions.
+
+5. **View Auction Details:**
+
+>* To view the details of a specific forward auction, click on the ""View Details"" button corresponding to that auction.
+
+6. **Participate in Forward Auction:**
+
+>* To participate in a forward auction, click on the ""Participate"" button.
+>* You will be required to submit a bid for the auction.
+>* Enter your bid amount and other necessary details, and then click on the ""Submit Bid"" button.
+
+7. **Manage Forward Auctions:**
+
+>* You can also manage your forward auctions from the dashboard.
+>* To view the status of your bids, click on the ""My Bids"" tab.
+>* To withdraw a bid, click on the ""Withdraw Bid"" button corresponding to that bid.
+
+8. **Notifications and Alerts:**
+
+>* GeM provides notifications and alerts regarding forward auctions.
+>* Keep an eye on your email and phone for updates related to auctions you are participating in."
+"How do I create a category and set auction parameters like start price, increments, time extension etc in the forward auction module?
+","To create a category and set auction parameters in the Forward Auction Module on GeM:
+
+1. Ensure you're logged into the GeM portal with the appropriate credentials.
+2. Click on the ""Seller Services"" tab in the top menu bar.
+3. Select ""Forward Auctions"" from the sub-menu.
+4. On the Forward Auctions page, click on the ""Create New Auction"" button.
+5. Fill in the basic auction details such as Auction Title, Description, Start Date, End Date, and Category.
+6. Click on the ""Create Category"" button.
+7. In the Create Category pop-up, enter the Category Name, Category Code, and Category Description.
+8. Click on the ""Add"" button to create the category.
+9. Once the category is created, click on the ""Set Auction Parameters"" button.
+10. In the Auction Parameters section, set the following parameters:
+
+   - **Start Price:** The minimum price at which the auction will start.
+   - **Reserve Price:** The minimum price at which the auction will be awarded to a bidder. This may be kept lower than or equal to the Start Price.
+   - **Increment:** The minimum amount by which a bid can be increased.
+   - **Time Extension:** The amount of time (in minutes) by which the auction will be extended if a bid is placed in the final minutes of the auction.
+   - **Auto Extend:** Enable this option to automatically extend the auction by the specified Time Extension if a bid is placed in the final minutes.
+   - **Bid Validity:** The period (in days) for which a bid is valid. After this period, the bid will be automatically canceled.
+
+11. Click on the ""Save"" button to save the auction parameters.
+12. Review the auction details and click on the ""Publish Auction"" button to make the auction live.
+
+Once the auction is published, it will be visible to potential buyers. Buyers can place bids on the auction item, and the auction will be awarded to the highest bidder at the end of the auction period."
+"What is the process for new buyer registration on the auction website?
+","1. **Visit the GeM Website:**
+
+* Go to the GeM website: https://gem.gov.in.
+
+2. **Register as a Buyer:**
+
+* Click on the ""Register"" button in the top right corner of the homepage.
+* Select ""Buyer"" as the user type.
+
+3. **Provide Personal Information:**
+
+* Enter your PAN Number.
+* Enter your name.
+* Select your gender.
+
+4. **Enter Contact Information:**
+
+* Provide your mobile number.
+* Enter your email address.
+
+5. **Create a Password:**
+
+* Create a strong password that meets the requirements.
+* Confirm your password by entering it again.
+
+6. **Enter OTP:**
+
+* You will receive an OTP on your registered mobile number.
+* Enter the OTP in the provided field.
+
+7. **Select Organization Type:**
+
+* Select your organization type as the following:
+    * Central Government
+    * State Government
+    * Public Sector Undertaking
+    * Autonomous Body
+    * Society
+    * Trust
+    * Cooperative Society
+    * Others
+
+8. **Select Organizational Information:**
+
+* Provide your organization's name.
+* Enter your organization's address.
+* Select your organization's state and district.
+* Specify your organization's PIN code.
+* Provide your organization's website (if available).
+
+9. **Upload Documents:**
+
+* Upload scanned copies of the following documents:
+    * PAN card of the organization
+    * GST certificate (if applicable)
+    * MSME certificate (if applicable)
+    * Udyog Aadhaar (if applicable)
+
+10. **Declaration and Signature:**
+
+* Read and understand the declaration carefully.
+* Sign the declaration with your digital signature.
+
+11. **Submit Registration:**
+
+* Click on the ""Submit"" button to complete the registration process.
+
+12. **Verification and Approval:**
+
+* GeM will verify your submitted information and documents.
+* If everything is in order, your buyer account will be approved within 7 working days.
+* You will receive an email and SMS notification once your account is approved.
+
+13. **Activate Your Account:**
+
+* Click on the activation link provided in the approval email.
+* Your GeM Buyer account will be activated, and you can start using it to participate in auctions."
+"How do I view auction details and EMD requirements before registering for an auction?
+","To view auction details and EMD requirements before registering for an auction on the GeM portal, follow these steps:
+
+1. Visit the GeM portal and log in to your account.
+
+2. On the homepage, click on the ""Auctions"" tab.
+
+3. You will see a list of upcoming auctions.
+
+4. Click on the title of the auction you are interested in to view the auction details.
+
+5. On the auction details page, you will find information such as the auction start and end date, the reserve price, the bid increments, and the EMD requirements.
+
+6. To view the EMD requirements, click on the ""EMD Details"" tab.
+
+7. Here, you will find information such as the EMD amount, the EMD submission deadline, and the EMD refund policy.
+
+8. Once you have reviewed the auction details and EMD requirements, you can decide whether or not you want to register for the auction.
+
+9. If you want to register for the auction, click on the ""Register"" button.
+
+10. You will be asked to provide your contact information and other details.
+
+11. Once you have submitted your registration, you will be able to participate in the auction."
+"What are the steps to submit my EMD details and get it approved by the department?
+","1. Login to GeM portal.
+2. Look for the tender participating in your dashboard or search for the tender using tender ID and click on it.
+3. Click on ""Submit EMD"" button available under ""Tender Actions"" section.
+4. Choose Payment mode as ""Bank Guarantee"", NEFT/ RTGS or Online payment (only for GeM Pooling).
+5. On providing details of EMD Submission, an ""EMD Submission Request"" will get generated.
+6. An alert will be sent to the respective department through email and SMS.
+7. The department will review and approve the EMD Submission Request.
+8. Once the EMD submission is approved by the department, the tender application will be submitted successfully.
+9. A notification will be sent to the bidder regarding the approval of EMD submission."
+"What happens if my EMD submission gets rejected? Can I resubmit it before the due date?
+","If your EMD submission gets rejected, you will receive a notification from GeM stating the reason for rejection. You can resubmit your EMD before the due date, but you will need to address the reason for the rejection in your resubmission.
+
+Here are the steps to resubmit your EMD:
+
+1. Log in to your GeM account.
+2. Click on the ""My Bids"" tab.
+3. Select the bid for which you want to resubmit your EMD.
+4. Click on the ""Resubmit EMD"" button.
+5. Enter the required information and upload the necessary documents.
+6. Click on the ""Submit"" button.
+
+Your resubmitted EMD will be reviewed by GeM, and you will be notified of the outcome.
+
+Please note that if your EMD submission is rejected multiple times, you may be restricted from participating in future GeM bids."
+"What are the terms and conditions I need to accept before entering the bidding hall?
+","Sure, as a GeM customer service, here are the terms and conditions you need to accept before entering the bidding hall:
+
+1. **Registration and Eligibility:**
+   - You must be a registered GeM user and have a valid Digital Signature Certificate (DSC) to participate in the bidding process.
+   - You must meet the eligibility criteria specified in the Request for Proposal (RFP) or tender document for the specific bidding opportunity.
+
+2. **Acceptance of Terms and Conditions:**
+   - You must carefully read and understand all the terms and conditions outlined in the GeM Bidding Guidelines and the specific RFP or tender document.
+   - By participating in the bidding process, you agree to be bound by these terms and conditions.
+
+3. **Bid Submission:**
+   - You must submit your bid electronically through the GeM portal within the specified deadline.
+   - Your bid should be complete, accurate, and compliant with the requirements outlined in the RFP or tender document.
+
+4. **Bid Validity:**
+   - You must ensure that your bid remains valid for the period specified in the RFP or tender document.
+   - Any changes or withdrawals of your bid during this period may result in disqualification.
+
+5. **Evaluation of Bids:**
+   - GeM (or the designated evaluation committee) will evaluate the bids based on the criteria and weightage specified in the RFP or tender document.
+   - The evaluation process may involve technical, financial, and other relevant aspects.
+
+6. **Award of Contract:**
+   - The contract will be awarded to the bidder who submits the most responsive and competitive bid, as determined by the evaluation committee.
+   - You may be required to provide additional information or clarifications during the evaluation process.
+
+7. **Execution of Contract:**
+   - If your bid is successful, you will be required to enter into a formal contract with GeM or the procuring entity.
+   - The contract will specify the terms and conditions, including the scope of work, timelines, payment terms, and other relevant details.
+
+8. **Compliance with Laws and Regulations:**
+   - You must comply with all applicable laws, rules, and regulations governing the bidding process and the execution of the contract.
+   - This includes adhering to labor laws, environmental regulations, and other relevant statutes.
+
+9. **Confidentiality and Security:**
+   - You must maintain the confidentiality of all information obtained during the bidding process and the execution of the contract.
+   - You must take appropriate measures to safeguard sensitive data and prevent unauthorized access or disclosure.
+
+10. **Penalties and Consequences:**
+    - Violation of any of the terms and conditions may result in disqualification from the bidding process, termination of the contract, or other penalties as specified in the GeM Bidding Guidelines or the specific RFP or tender document.
+
+By accepting these terms and conditions, you acknowledge that you have carefully read and understood them and agree to be bound by them."
+"Can I bid on multiple properties in the same auction event? What are the conditions for that?
+","Yes, you can bid on multiple properties in the same auction event, subject to the following conditions:
+
+1. **Registration and Earnest Money Deposit (EMD)**:
+   - You must be a registered GeM user and have a valid GeM ID.
+   - You must deposit the required EMD amount for each property you wish to bid on. The EMD amount varies depending on the property's value and is specified in the auction notice.
+   - The EMD must be deposited before the specified deadline. Failure to do so may result in your bid being disqualified.
+
+2. **Bidding Process**:
+   - You can place bids on multiple properties simultaneously during the auction.
+   - When bidding on multiple properties, you must ensure that the bids are within your financial limits and that you can fulfill the payment obligations if you win the bid.
+   - You can revise your bids during the auction period up until the bidding deadline.
+
+3. **Bid Validity and Withdrawal**:
+   - Once you submit a bid, it becomes binding, and you cannot withdraw it unless the auction is canceled or extended.
+   - If you win the bid for multiple properties, you must pay the full purchase price for each property as specified in the auction terms and conditions.
+
+4. **Winning Bid and Notification**:
+   - The highest bidder for each property at the end of the auction period is declared the provisional winner.
+   - The GeM platform will notify the provisional winners via email and SMS.
+   - The provisional winners will have a specified time frame to confirm their acceptance of the award and make the required payments.
+
+5. **Payment and Completion of Sale**:
+   - Upon acceptance of the award, the winning bidder must pay the remaining balance of the purchase price within the stipulated time frame.
+   - After receiving the full payment, the seller will execute the necessary documents to transfer the ownership of the property to the buyer.
+   - The GeM platform will facilitate the payment and documentation process.
+
+By adhering to these conditions, you can participate in the auction event and bid on multiple properties simultaneously, increasing your chances of acquiring the desired properties."
+"How does the auto-bidding feature work? How do I enable it?
+","**How does the auto-bidding feature work?**
+
+Auto-bidding is a feature on GeM that allows you to automatically bid on auctions. This feature is available for all auctions, except for those that are set to ""sealed bid"".
+
+When you enable auto-bidding, you specify the maximum amount that you are willing to pay for the item. GeM will then automatically bid on your behalf, up to the maximum amount that you have specified.
+
+If you are the highest bidder when the auction ends, you will win the item and be charged the amount of your winning bid.
+
+**How do I enable auto-bidding?**
+
+To enable auto-bidding, follow these steps:
+
+1. Go to the auction page for the item that you want to bid on.
+2. Click on the ""Auto Bid"" button.
+3. Enter the maximum amount that you are willing to pay for the item.
+4. Click on the ""Enable Auto Bid"" button.
+
+Once you have enabled auto-bidding, GeM will automatically bid on your behalf, up to the maximum amount that you have specified.
+
+**Additional information:**
+
+* You can disable auto-bidding at any time by clicking on the ""Disable Auto Bid"" button on the auction page.
+* If you are the highest bidder when the auction ends, you will be notified by email.
+* You will be charged the amount of your winning bid, plus any applicable taxes and shipping costs."
+"How can I switch to bidding for another property during live auction? What are the conditions for switching?
+","To switch to bidding for another property during a live auction on GeM, you must meet the following conditions:
+
+1. **Bidding Limit:** You must have sufficient bidding limit available to participate in the auction for the new property.
+
+2. **Registration for New Property:** Ensure that you are registered for the new property you wish to bid on. You can check the list of available properties for auction on the GeM platform.
+
+3. **Active Participation:** You must be actively participating in the auction for the current property. This means placing bids or confirming your participation regularly.
+
+4. **Timeliness:** You must initiate the switch before the auction for the current property ends.
+
+5. **Confirmation Required:** You must confirm your intention to switch to the new property. This can typically be done through a pop-up message or a confirmation dialog box on the GeM platform.
+
+Here are the steps on how to switch to bidding for another property during a live auction:
+
+1. **Monitor Multiple Auctions:** Keep track of multiple auctions simultaneously. Use the ""My Auctions"" section or other provided tools on the GeM platform to monitor multiple auctions in different tabs or windows.
+
+2. **Identify the Desired Property:** Locate the auction for the new property you wish to switch to. Make sure to check the property details, auction start and end times, and other relevant information.
+
+3. **Check Eligibility:** Confirm that you meet the eligibility criteria for participating in the auction of the new property. Ensure that you have sufficient bidding limits, and you are registered for the property.
+
+4. **Prepare to Switch:** Once you have identified the desired property and checked your eligibility, be prepared to switch at the right moment. Keep your bidding limit and registration information accessible.
+
+5. **Initiate the Switch:** During the auction for the current property, look for a button or link labeled ""Switch Property"" or similar. Click on this to initiate the switching process.
+
+6. **Confirm the Switch:** You may be prompted to confirm your intention to switch to the new property. Read the confirmation message carefully and click on the appropriate button to confirm your switch.
+
+Once the switching process is complete, you should be able to participate in the auction for the new property using your existing bidding limit. Please note that the conditions and process for switching properties during a live auction may vary depending on the specific rules and regulations set forth by GeM. It is recommended to consult the platform's guidelines or contact customer support for further assistance with this process."
+"Where can I check the bid history and download the intimation letter after the auction?
+","To check the bid history and download the intimation letter after the auction on the GeM portal, follow these steps:
+
+1. Log in to your GeM account and navigate to the 'My Bids' section.
+2. Select the relevant bid for which you want to check the history.
+3. Click on the 'Bid History' tab to view the details of all the bids submitted for that particular auction.
+4. To download the intimation letter, click on the 'Download Intimation Letter' button. The letter will be downloaded in PDF format.
+
+Alternatively, you can also access the bid history and download the intimation letter through the 'My Orders' section:
+
+1. Go to the 'My Orders' section and select the relevant order.
+2. Click on the 'View Bid History' button to view the details of all the bids submitted for that particular auction.
+3. To download the intimation letter, click on the 'Download Intimation Letter' button.
+
+The intimation letter contains important information such as the bid amount, bid validity period, and terms and conditions of the contract. It is advisable to download and keep a copy of the intimation letter for future reference."
+"What does the system generated intimation letter contain? When will I receive it?
+","The system-generated intimation letter contains the following information:
+
+1. Order details, like the order ID, order date, and items ordered.
+
+2. Payment details, including the mode of payment and transaction ID.
+
+3. Shipping details, like the estimated delivery date and the name of the courier company.
+
+4. Seller details, such as the seller's name, address, and contact information.
+
+5. Buyer details, including the buyer's name, address, and contact information.
+
+6. Other relevant information, such as cancellation and return policies.
+
+You will receive the system-generated intimation letter shortly after placing your order on the GeM portal. The letter will be sent to the email address registered with your GeM account. Please check your spam or junk folder if you do not find the letter in your inbox."
+"Who do I contact if I face any issues during bidder registration or auction participation?
+","If you face any issues during bidder registration or auction participation on the GeM portal, you can contact the GeM Customer Care team for assistance. 
+
+* **Toll-Free Number:** 1800 419 0666 
+*(Available from Monday to Saturday, 9:00 AM to 6:00 PM)*
+
+* **Email:** support-gem@gov.in
+
+* **Helpdesk:** You can also raise a ticket on the GeM Helpdesk by visiting the following link: https://gem.gov.in/helpdesk
+
+Please provide the following information when contacting the GeM Customer Care team:
+
+* Your name and contact information
+* The nature of the issue you are facing
+* The steps you have taken to resolve the issue
+* Any error messages or screenshots you have captured
+* The GeM portal page or section where you are experiencing the issue
+
+The GeM Customer Care team will review your request and provide you with the necessary support to resolve the issue."
+"I already have a buyer account on GeM. Do I need to register separately for forward auctions?
+","No, you do not need to register separately for forward auctions on GeM if you already have a buyer account. Your existing buyer account will suffice for participating in forward auctions. However, ensure that your buyer account is active and has the necessary permissions to participate in forward auctions.
+
+If you need additional assistance with participating in forward auctions on GeM, you can reach out to GeM customer support for further guidance."
+"What documents do I need to provide for buyer registration on the auction portal?
+","To register as a buyer on the auction portal, you will need to provide the following documents:
+
+1. Company PAN Card.
+2. GST Certificate.
+3. Import Export Code (IEC) (If Applicable).
+4. Certificate or proof of constitution of business entity - 
+    - For Proprietorship Firm - Business Registration Certificate/ Udhyog Aadhaar/ Document of firm registration
+    - For Partnership Firm - Partnership Deed and Certificate of Registration under Registration Act 1932
+    - For Limited Liability Partnership (LLP) - Certificate of Registration under LLP Act 2008
+    - For Private Limited Company - Certificate of Incorporation and Certificate of Commencement of Business
+    - For Public Limited Company - Certificate of Incorporation and Certificate of Commencement of Business
+5. Proof of Address of Business entity as per PAN database - 
+    - Ownership Proof (Sale Deed/ Property Tax Receipt/Latest Telephone Bill)
+    - Rent/Lease Agreement and Rent Receipt/Latest Telephone Bill on name of business Entity
+6. Authorization letter in case of third Party Business Address (Notarized)
+7. Cancelled Cheque/Bank statement having Name, Account number, IFSC code and MICR Code
+8. Digital Signature Certificate (DSC) (Class-II or above)
+    - DSC can be acquired from CCA approved vendors
+    - DSC should have validity for minimum one year
+    - DSC should be in USB Token only
+    - DSC should be in .pfx or .p12 file format
+    - DSC should have password
+    - DSC should be signed by applicant only
+
+Please note that all documents should be self-attested and in PDF format."
+"Is there a fee or subscription charges for accessing the forward auction module?
+","No, there is no fee or subscription charge for accessing the forward auction module on GeM. It is a free service provided by the government to facilitate transparent and efficient procurement."
+"Can I see the list of upcoming forward auctions on GeM? Where can I find it?
+","Yes, you can see the list of upcoming forward auctions on GeM. To find the list:
+
+1. Visit the GeM portal: https://gem.gov.in/
+
+2. Click on the ''Auctions'' tab located at the top of the homepage.
+
+3. Select the ''Forward Auctions'' option from the drop-down menu.
+
+4. On the ''Forward Auctions'' page, you will find a list of all the upcoming forward auctions.
+
+5. You can filter the list by category, product, location, or date to find specific auctions that are relevant to you."
+"Is there an option to set alerts for auctions in my interested categories?
+","Yes, there is an option to set alerts for auctions in your interested categories on GeM. Here's how you can do it:
+
+1. Log in to your GeM account.
+2. Click on the ""My Interests"" tab from the top menu bar.
+3. Select the ""Auctions"" section from the left sidebar.
+4. Click on the ""Set Alerts"" button.
+5. Select the categories for which you want to receive alerts.
+6. Choose the frequency of alerts (daily, weekly, or monthly).
+7. Enter your email address where you want to receive the alerts.
+8. Click on the ""Save"" button.
+
+Once you have set up the alerts, you will receive notifications whenever an auction is published in your interested categories. This will help you stay updated on the latest opportunities and participate in the auctions accordingly.
+
+Please ensure that you have enabled notifications from GeM in your email settings to receive the alerts. You can also manage your alerts by editing or deleting them from the ""My Interests"" section."
+"Can I customize my dashboard or create shortcuts for frequent auction actions?
+","Yes, you can customize your dashboard and create shortcuts for frequent auction actions. Here's how:
+
+1. **Customize Dashboard:**
+
+   - Log in to the GeM portal and click on your profile picture at the top-right corner.
+   - Select ""Customize Dashboard"" from the drop-down menu.
+   - Drag and drop the desired widgets to your dashboard.
+   - You can also rearrange the order of widgets by dragging and dropping them.
+   - Click ""Save Changes"" when you're done.
+
+2. **Create Shortcuts for Frequent Auction Actions:**
+
+   - On your dashboard, click on the ""More"" button (three dots) next to the widget for which you want to create a shortcut.
+   - Select ""Create Shortcut"" from the drop-down menu.
+   - Give your shortcut a name and click ""Create.""
+   - The shortcut will now be available on your dashboard, allowing you to quickly access the desired auction action.
+
+By customizing your dashboard and creating shortcuts, you can streamline your workflow and access frequently used auction actions with ease."
+"Is there an option for proxy bidding in forward auctions? How does it work?
+","Yes, there is an option for proxy bidding in forward auctions on the Government e-Marketplace (GeM). Here's how it works:
+
+1. **Bidder Registration:**
+   - To participate in forward auctions with proxy bidding, bidders must first register on the GeM portal and obtain a valid Digital Signature Certificate (DSC).
+
+2. **Auction Details:**
+   - Bidders can view the details of upcoming forward auctions, including the auction start and end dates, bid submission deadline, estimated value of the contract, and other relevant information.
+
+3. **Proxy Bidding:**
+   a. Bid Submission:
+      - Bidders can submit their bids through the GeM portal using the ""Submit Proxy Bid"" option.
+      - Proxy bidding allows bidders to set a maximum bid amount for the auction. The system will automatically bid on their behalf, up to their maximum bid amount, to secure the contract.
+   b. Automatic Bidding:
+      - During the auction, the GeM system will automatically place bids on behalf of bidders, starting with the lowest bid amount.
+      - If another bidder places a higher bid, the system will continue to bid on behalf of the proxy bidder, up to their maximum bid amount, until they win the auction or the maximum bid amount is reached.
+
+4. **Auction Results:**
+   - The auction winner is the bidder who submits the highest bid that meets the bid submission deadline.
+   - Bidders can view the auction results on the GeM portal.
+
+5. **Contract Award:**
+   - After the auction concludes, the contract is awarded to the winning bidder.
+   - The winning bidder must complete the required formalities, such as submitting the required documents and paying any applicable fees, to secure the contract.
+
+Proxy bidding in forward auctions on GeM allows bidders to participate in the auction without having to be present during the entire bidding process. It also helps to ensure fair competition and transparency by automating the bidding process."
+"What happens if there is a tie between multiple highest bidders?
+","In case of a tie between multiple highest bidders, GeM follows a transparent and fair process to determine the winning bidder:
+
+1. **Price Evaluation:** If the highest bid amount is the same for multiple bidders, the bids are further evaluated based on the ""Price Quoted"" field. The bidder with the lowest ""Price Quoted"" is considered the winning bidder.
+
+2. **Technical Evaluation:** If the bids are still tied after the price evaluation, the bids are then evaluated based on the technical criteria specified in the tender document. The bidder with the highest technical score is considered the winning bidder.
+
+3. **Random Selection:** In case the bids are still tied after both price and technical evaluations, GeM conducts a random selection process to determine the winning bidder. This is done through a transparent and publicly verifiable process.
+
+4. **Communication to Bidders:** GeM promptly informs all the bidders about the outcome of the bidding process. The winning bidder is notified and awarded the contract, while the unsuccessful bidders are informed about the results.
+
+This process ensures fairness, transparency, and objectivity in determining the winning bidder in cases of a tie. It also provides a clear and consistent method for resolving ties, preventing any ambiguity or bias in the decision-making process."
+"How soon after the auction can I make the payment against my winning bid?
+","As a GeM customer service, I would like to inform you that the payment against the winning bid can be made within 1 day after the auction is concluded. Please ensure that you make the payment within the stipulated time to avoid any delays or penalties."
+"What are the different modes of payment available for auction settlement?
+","Sure, as a GeM customer service, here are the different modes of payment available for auction settlement:
+
+1. **Real-Time Gross Settlement (RTGS)**:
+
+   - RTGS is a real-time funds transfer system operated by the Reserve Bank of India (RBI).
+   - It allows for immediate and irrevocable transfer of funds between banks in India.
+   - To make an RTGS payment, the buyer's bank will need the following information:
+     - Beneficiary's name (seller's name)
+     - Beneficiary's account number
+     - Beneficiary's bank name and branch
+     - IFSC code of the beneficiary's bank
+     - Amount to be transferred
+     - Remitter's name (buyer's name)
+     - Remitter's account number
+     - Remitter's bank name and branch
+
+2. **National Electronic Funds Transfer (NEFT)**:
+
+   - NEFT is an electronic funds transfer system operated by the RBI.
+   - It allows for the transfer of funds between banks in India on a deferred net settlement basis.
+   - NEFT payments are processed in batches throughout the day.
+   - To make an NEFT payment, the buyer's bank will need the following information:
+     - Beneficiary's name (seller's name)
+     - Beneficiary's account number
+     - Beneficiary's bank name and branch
+     - IFSC code of the beneficiary's bank
+     - Amount to be transferred
+     - Remitter's name (buyer's name)
+     - Remitter's account number
+     - Remitter's bank name and branch
+
+3. **Electronic Clearing Service (ECS)**:
+
+   - ECS is an electronic funds transfer system that allows for the bulk transfer of funds from one bank account to multiple bank accounts.
+   - ECS payments are typically used for salary payments, pension payments, and other recurring payments.
+   - To make an ECS payment, the buyer's bank will need the following information:
+     - Beneficiary's name (seller's name)
+     - Beneficiary's account number
+     - Beneficiary's bank name and branch
+     - IFSC code of the beneficiary's bank
+     - Amount to be transferred
+     - Remitter's name (buyer's name)
+     - Remitter's account number
+     - Remitter's bank name and branch
+
+4. **Cheque/Demand Draft**:
+
+   - A cheque or demand draft is a paper-based payment instrument that can be used to make payments.
+   - Cheques and demand drafts can be issued by banks or other financial institutions.
+   - To make a payment by cheque or demand draft, the buyer must provide the following information to the seller:
+     - Name of the bank that issued the cheque or demand draft
+     - Cheque or demand draft number
+     - Date of issue
+     - Amount of the payment
+     - Name of the payee (seller)
+
+5. **GeM Pool Account (GPA)**:
+
+   - GPA is a virtual account maintained by the GeM portal for the purpose of auction settlement.
+   - Buyers can transfer funds to their GPA using any of the above-mentioned payment methods.
+   - Once the funds are credited to the GPA, the buyer can use them to make payments to sellers for auction settlements.
+
+Please note that the availability of certain payment methods may vary depending on the specific auction and the seller's preferences.
+
+I hope this helps!"
+Whom should I contact in case I face technical issues during the auction? Is there a helpline?,"In case you face any technical issues during the auction, you may contact the GeM Helpdesk for assistance. The Helpdesk is available 24/7 and can be reached through the following channels:
+
+1. **Email:** [email protected]
+2. **Phone:** 1800 419 0660
+3. **Live Chat:** Available on the GeM portal
+
+When you contact the Helpdesk, please provide them with the following information:
+
+* Your GeM User ID
+* A detailed description of the technical issue you are facing
+* Screenshots or error messages, if applicable
+
+The Helpdesk will then assist you in resolving the issue or provide you with further instructions."

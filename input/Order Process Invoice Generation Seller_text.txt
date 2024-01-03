@@ -1,0 +1,29 @@
+What is the process to accept or decline an order on GeM?
+How do I generate an invoice on GeM after accepting an order?
+Where can I view the order details on GeM?
+How do I select the place of supply for billing on GeM?
+What do I do if I'm GST registered on GeM?
+How can I preview the invoice before proceeding on GeM?
+What is the process to verify the invoice using OTP or e-Sign on GeM?
+How do I register for e-Mudra e-Sign to perform e-Sign on GeM?
+Where can I view and download the final invoice after e-Sign verification?
+How can I generate and download the dispatch slip on GeM?
+Where can I view shipment details for my order on GeM?
+How do I edit or regenerate an invoice on GeM if required?
+What is the process to update delivery date and proof on GeM after dispatch?
+Where can I view the order progress and status on GeM?
+What do I do if I need any other customer support on GeM as a seller?
+What are the different documents I need to upload on GeM as a seller?
+What formats are accepted for invoice and delivery proof documents on GeM?
+Is there a size limit for documents I upload on GeM as a seller?
+Can I save draft invoices on GeM before generating the final invoice?
+How do I add or edit GST details on GeM as a seller?
+Is there an option to add multiple GST numbers for different places of supply?
+What do I do if there is an error in the auto-generated GST invoice on GeM?
+How can I change the invoice number or date on GeM if required?
+Is there an option to add payment terms or notes on the GST invoice?
+How long does it take to receive OTP for invoice verification on GeM?
+What should I do if I don't receive the OTP for invoice verification?
+Whom should I contact for any seller account related issues on GeM?
+Is there a log of all my invoices and orders on GeM? Where can I access it?
+How soon after delivery can I update delivery date and proof on GeM?

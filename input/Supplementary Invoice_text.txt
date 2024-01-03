@@ -1,0 +1,20 @@
+What are the eligibility criteria to generate a supplementary invoice for rejected quantities by the consigny?
+If the consigny rejects some quantity at the time of PRC generation, where do I find the option to create a replacement invoice as a seller?
+If the consigny rejects some quantity at the time of CRAC generation, what options do I have as a seller to create a supplementary invoice?
+What is the time limit within which I need to create the supplementary invoice for the rejected quantity - is it within the delivery period of the contract?
+For the rectification and replacement invoices I create as a seller, will these invoices reference the original invoice number?
+As a seller, how many times can I declare reshipment for the same shipment or invoice?
+Do I as a seller have the option to generate multiple invoices for the same declared reshipment?
+What is the process to generate a replacement invoice if the consigny rejects quantity at the time of PRC generation?
+What do you mean by deemed, auto, PRC and CRAC cases? Why are these invoice types not eligible for supplementary invoice creation?
+You mentioned all replacement invoices would be treated as new invoices - what does this mean in terms of invoice numbers, invoice dates etc?
+What documents or information do I need to provide when creating a supplementary invoice for rejected quantities?
+Is there a limit on the number of times I can create a supplementary invoice for the same original invoice?
+If only some items in the original invoice are rejected, can I create a supplementary invoice just for those rejected items rather than the full invoice quantity?
+Does the supplementary invoice go through the same invoice processing and payment stages as the original invoice?
+Do I need to wait for approval from GeM before shipping the replaced/rectified quantities to the consignee?
+If there are transportation charges related to reshipping the rectified/replaced quantities, can I include those charges in the supplementary invoice amount?
+Is the process for creating supplementary invoices any different if I had used e-billing instead of manual billing for the original invoice?
+If multiple invoices were clubbed under one CRAC earlier, do I need to create separate supplementary invoices for each original invoice with rejected items?
+How do I ensure the replaced/rectified items are accepted this time by the consignee since they were earlier rejected?
+By when do I need to make the necessary rectifications or issue replacement stocks for the rejected quantities?

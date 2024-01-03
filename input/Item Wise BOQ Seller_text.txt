@@ -1,0 +1,25 @@
+What are the new options available for buyers when creating a BOQ bid?
+What is item-wise evaluation and group-wise evaluation in BOQ bids?
+What is the minimum value for creating a BOQ bid?
+For item-wise evaluation, what does the buyer need to specify?
+For group-wise evaluation, what does the buyer need to specify?
+Can a buyer give a title to a BOQ bid? If yes, why is this useful?
+What can a buyer choose to do after technical evaluation of bids?
+How can a seller search and select a BOQ bid to participate in on GeM?
+What steps does a seller need to follow to participate in a BOQ bid on GeM?
+What documents does a seller need to upload when participating in a BOQ bid?
+What kind of financial documents does a seller need to upload?
+How does a seller submit the bid after uploading documents?
+How does a seller verify their bid submission?
+How can a seller confirm that their bid has been successfully participated in?
+What kind of support does GeM provide to sellers participating in BOQ bids?
+If I make a mistake in my BOQ bid, is there a way to edit or withdraw my bid?
+Is there a limit to how many BOQ bids I can participate in at one time as a seller?
+What are the different status updates I will receive after submitting a BOQ bid?
+How does the price matching work in BOQ bids on GeM?
+Can I provide a discount on my total bid price during the price matching stage?
+How long does it usually take for a BOQ bid evaluation result to be published after bidding closes?
+Is there an advantage to submitting my BOQ bid early versus waiting until the last day?
+What are some common reasons bids get disqualified during technical evaluation?
+If my bid gets disqualified, can I speak to someone to understand why?
+How soon after bid submission can I expect payments if my bid wins?

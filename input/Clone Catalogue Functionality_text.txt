@@ -1,0 +1,22 @@
+What is the Clone Catalogue functionality on GeM and how does it work?
+How can I find the catalog ID of an existing catalog to clone?
+Do I need to make any changes to the cloned catalog specifications before publishing or can I publish an identical copy?
+What is the purpose of the dialog box consent to confirm cloning specifications?
+After cloning a catalog, what steps do I need to take before publishing the new catalog?
+What restrictions are there in terms of making changes to specifications when cloning a catalog?
+When should I use the catalog pair functionality vs. cloning a catalog?
+Can I clone catalogs across different product categories or only within the same category?
+Is there a limit to how many times I can clone an existing catalog?
+Will cloning a catalog copy over all specifications or are some excluded?
+What happens if I try to publish a cloned catalog without making any changes to specifications?
+How long does it take to clone and publish a new catalog based on an existing one?
+If I clone a catalog and make changes, will it affect the original catalog at all or are they separate?
+When I publish a cloned catalog, will it completely replace the existing catalog or be published as a separate new catalog?
+Is there a way to selectively choose which specifications get copied over when cloning versus copying everything?
+Do any of the catalog IDs or SKUs get automatically changed when cloning a catalog or do I need to manually update them?
+Can I clone a catalog and directly edit the cloned version before publishing or do I have to publish first?
+Is there a limit to how many catalogs I can clone from the same original catalog?
+If there are errors in the original catalog I clone from, will those errors transfer over to the cloned catalog?
+If I make updates to the original catalog later on, is there any way to sync those changes to the cloned catalogs?
+How can I track which catalogs originated as clones versus created manually?
+Is cloning catalogs recommended as a standard practice or only in certain situations?

@@ -1,0 +1,25 @@
+How do I register as a buyer on GeM to participate in forward auctions?
+What are the steps to login and access the forward auction module after registering as a buyer?
+How do I create a category and set auction parameters like start price, increments, time extension etc in the forward auction module?
+What is the process for new buyer registration on the auction website?
+How do I view auction details and EMD requirements before registering for an auction?
+What are the steps to submit my EMD details and get it approved by the department?
+What happens if my EMD submission gets rejected? Can I resubmit it before the due date?
+What are the terms and conditions I need to accept before entering the bidding hall?
+Can I bid on multiple properties in the same auction event? What are the conditions for that?
+How does the auto-bidding feature work? How do I enable it?
+How can I switch to bidding for another property during live auction? What are the conditions for switching?
+Where can I check the bid history and download the intimation letter after the auction?
+What does the system generated intimation letter contain? When will I receive it?
+Who do I contact if I face any issues during bidder registration or auction participation?
+I already have a buyer account on GeM. Do I need to register separately for forward auctions?
+What documents do I need to provide for buyer registration on the auction portal?
+Is there a fee or subscription charges for accessing the forward auction module?
+Can I see the list of upcoming forward auctions on GeM? Where can I find it?
+Is there an option to set alerts for auctions in my interested categories?
+Can I customize my dashboard or create shortcuts for frequent auction actions?
+Is there an option for proxy bidding in forward auctions? How does it work?
+What happens if there is a tie between multiple highest bidders?
+How soon after the auction can I make the payment against my winning bid?
+What are the different modes of payment available for auction settlement?
+Whom should I contact in case I face technical issues during the auction? Is there a helpline?

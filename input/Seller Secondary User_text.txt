@@ -1,0 +1,20 @@
+What is GeM and how does it work?
+How do I register as a seller on GeM? What details or documents do I need?
+What is the process to add a secondary user to my GeM seller account?
+What roles and permissions can I assign to a secondary user?
+How does the secondary user activate their account after I send them the activation link?
+Why does the secondary user need to register with PAN or Aadhar based on what I registered with?
+What is the process for the secondary user to register using PAN?
+What details do they need to provide for OTP based verification?
+What is the process for the secondary user to register using Aadhar?
+After registration, how can the secondary user update their profile details like password, email, and mobile number?
+Is there any process for me as the primary user to revoke access given to a secondary user?
+Who can I contact if I face any issues in adding or managing secondary users?
+What roles can I assign to secondary users (e.g. making purchases, uploading products, managing orders etc.)? Are there any limitations?
+Do my secondary users require separate login credentials? Can they access my seller account directly?
+Can I assign secondary user access to someone outside my organization like an external agency or freelancer?
+Is there a limit on the number of secondary users I can add to my seller account?
+Is any approval required if I want to remove secondary user access that I have granted earlier?
+What kind of profile information is visible to my secondary users when they login? Can they see financial data?
+Can secondary users initiate transactions like making a bid or deal on my behalf? Are there any monetary limits imposed?
+Are communications from GeM sent only to me (primary user) or do secondary users also receive them?

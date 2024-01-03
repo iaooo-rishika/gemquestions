@@ -1,0 +1,18 @@
+What are the allowed file formats and size limits for uploading MRP supporting documents?
+My MRP supporting document was rejected. What are some common reasons for document rejection that I should check for?
+What specific details should be visible in the photo of the product packaging I upload as an MRP supporting document (e.g. MRP, quantity, etc.)?
+How recent should the GST invoices, purchase orders, or government order copies showing MRP details be? Is there a time limit?
+What all information should typically be present in an MRP declaration on OEM letterhead (e.g. MRP, quantity, model number etc.)?
+Can I upload more than one MRP supporting document for a product? Is there a limit?
+What are the mandatory details that must be present in the product catalogue documents like spec sheet, data sheet, BIS certificate etc.?
+My uploaded catalogue document was rejected. What might be some reasons for this?
+If one of my uploaded documents gets rejected, can I re-upload or edit the document after making changes?
+Where can I view the notifications from the admin regarding rejection reasons for my uploaded documents?
+I sell products in multiple product categories. Do the required supporting documents vary by category? For example, are certain certificates mandatory only for certain products?
+My company recently changed manufacturers for a particular product line. Do I need to upload updated authorization letters and other documents reflecting the manufacturer change?
+I have some products without standard OEM specification sheets. In such cases, what alternate documents can I provide to show detailed product specifications?
+Is there a size limit per individual uploaded document? Or does the 1 MB limit apply only to the total size of all uploaded files?
+For multi-page PDF catalogue documents, do you recommend splitting into separate PDFs for each product? Or can a single PDF contain multiple products?
+Some of my product invoices contain pricing info which is confidential. Can I redact or obscure the pricing but still use these for MRP validation?
+I have some foreign manufacturer certificates not available in English or Hindi. Do you accept documents in other regional languages?
+Are sellers notified and provided an explanation whenever a document is rejected or put on hold? If not, how can we determine the reasons?

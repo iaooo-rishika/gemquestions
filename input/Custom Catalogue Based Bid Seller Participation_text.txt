@@ -1,0 +1,20 @@
+How do I create a custom catalog on GeM for items not available in the standard categories?
+What information do I need to provide when creating a custom catalog, such as title, specifications, images etc?
+Can I merge multiple custom catalogs I have created into one?
+Once I've created a custom catalog, how do I participate in a bid that requires it?
+When participating in a bid using a custom catalog, do I need to upload documents showing my item complies with the buyer's specifications?
+Is there a way to compare my specifications to the buyer's when participating in a bid based on a custom catalog?
+What is the process for uploading my pricing and other required documents when participating in a custom catalog bid?
+How do I get the OTP required to verify my participation in a custom catalog bid?
+Are there any tips or best practices for sellers when participating in custom catalog bids on GeM?
+Who can I contact if I have any other questions about participating in custom catalog bids that weren't answered here?
+If I create a custom catalog for a bid, can I reuse it for future bids or do I need to create a new one each time?
+Is there a limit to the number of custom catalogs I can create on GeM?
+Can I edit or update a custom catalog after I've published it or is it locked?
+Do you have any guidelines on the type of specifications or documentation to include when creating a custom catalog?
+Is there a review or approval process for custom catalogs before they are published and made available for bids?
+How long does it take after creating a custom catalog for it to become available for bid participation?
+Can I see analytics on my custom catalogs - such as number of views, downloads, or bid participation?
+Is the reference price I set for my custom catalog made public to buyers or kept private?
+Do I need to renew or update my custom catalogs periodically or do they remain active indefinitely?
+What happens to my custom catalogs if I no longer sell or produce those items - can I deactivate old catalogs?

@@ -1,0 +1,21 @@
+How do I discontinue a product catalog if I am an OEM seller in a Q2 category?
+If I am a reseller and the OEM discontinues a product catalog, will my catalog also get discontinued automatically?
+If I am in a Q3 category, when I discontinue a product catalog, will it affect the listings of other paired sellers?
+If I am a reseller and the OEM discontinues a product, will it show as discontinued in my seller dashboard?
+What is the process to discontinue a product catalog as an OEM seller in a Q2 category?
+What tab do I need to click to initiate discontinuing a product as an OEM seller?
+For Q2 categories, do I need to discontinue each paired reseller's catalog separately or will it happen automatically?
+What happens when I confirm discontinuing a product catalog in a Q2 category?
+As a reseller, where can I see if one of my products was discontinued by the OEM?
+For Q3 categories, can I selectively discontinue my product without affecting other sellers?
+What do I need to do to discontinue a product in a Q3 category? Just select a checkbox?
+If a product is discontinued by OEM in Q3 category, will it still show as active for resellers?
+If I upload a new catalog with a discontinued product SKU, will it automatically be discontinued or can I relist it?
+As an OEM, if I discontinue a product now, can I undo it later or reactivate the listing?
+I'm a reseller who carries products from multiple OEMs. If one OEM discontinues a product, does that affect the same product I source from another OEM?
+Are there any fees or penalties for frequently discontinuing and relisting product catalogs as an OEM?
+As a reseller, will I get any notification if an OEM discontinues a product I'm carrying so I can update my listings?
+When a product gets discontinued, is there a way for buyers to still view the old product page for reference or is it deleted?
+For how long do discontinued product catalogs remain in my seller dashboard before being removed entirely?
+If I discontinue a product as OEM, could another seller apply and list the same discontinued SKU again?
+Is there a limit to how many times I can discontinue and relist a product catalog within a certain time period?
