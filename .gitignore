@@ -1,1 +1,4 @@
 /gemquestions
+models/__pycache__/__init__.cpython-310.pyc
+models/__pycache__/chat_openai.cpython-310.pyc
+models/__pycache__/gemini_pro.cpython-310.pyc
