@@ -1,0 +1,140 @@
+"I don't have a PAN card. What other IDs can I use to register as a seller?
+","As per GeM's registration requirements, having a PAN card is obligatory for registering as a seller. Other documents like GSTIN, Aadhaar, bank account details, email id, mobile number etc. are also required. Without your PAN (Permanent Account Number), the system won't let you proceed with the registration process. Therefore, obtaining a PAN card is imperative."
+"I entered the wrong PAN details by mistake when registering. How can I correct this?
+","I'm sorry for the inconvenience caused. Unfortunately, you cannot modify the PAN after registration as it gets mapped to your unique ID. In this situation, I recommend you kindly get in touch with our service team via our helpline (1800-419-3436/1800-102-3436) or email (helpdesk-gem@gem.gov.in) for further assistance. They may guide you through the process of deactivating the incorrect registration and creating a new one with the correct details."
+"My PAN verification failed even though I entered the right PAN. What should I do?
+","If you have entered the correct PAN and it's still failing verification, you might want to try the following steps:
+
+1. Double-check your PAN: Please ensure you have entered it correctly and that the information on your PAN card matches with the information you have provided.
+
+2. Verify your details: The PAN card details should match with the details of the business such as the name, date of incorporation/DOB.
+
+3. Secondary Verification: You can also verify your PAN details on the Income Tax Department’s online portal. If the PAN card details are not reflecting properly on their platform, you may need to approach them to resolve the issue.
+
+4. Contact Support: If the problem persist you can raise a ticket on GeM portal's helpdesk or contact GeM Customer Support at helpdesk-gem@gov.in with the necessary details and they will assist you further.
+
+Please remember that the verification process can take a few days so it's recommended to wait for a while before reaching out to the Support team."
+"I don't have a company email ID. Can I use my personal email for seller registration?
+","No, individual or personal email IDs are not allowed for registering as a seller on GeM. It is mandatory to provide an official or business email ID linked to the organization for registration purposes. This is to ensure the legitimacy of the seller's identification and organization."
+"I forgot my user ID. How can I retrieve it?
+","There is no direct option to retrieve your GeM user ID online as it is based on one's secured information. If you have forgotten your User ID, please contact the GeM Service Desk at 1800-419-3436 or 1800-102-3436. Alternatively, you could also drop an email at care@gem.gov.in. They might ask you for some details which were used at the time of registration for verification purposes. After verification, they will provide you with the necessary details. It is advisable to note down your User ID somewhere safe to avoid such situations in the future."
+"I'm unable to receive the OTP to verify my email. What should I do?
+","I'm sorry for the inconvenience you are experiencing. Here are a few troubleshooting steps you can try:
+
+1. Ensure your mailbox is not full, and the email is not going into spam or junk folders.
+2. Verify if you entered a valid and correct email address during registration.
+3. Sometimes there could be a delay due to network issues, please wait for a few minutes.
+4. If you've waited and checked your spam and it's still not there, try to initiate the process again.
+5. If the above steps don't resolve the issue, you can raise a ticket with GeM Customer Support providing your registered email ID and the issue you're facing.
+
+Please remember, it's important not to share sensitive information like OTPs with anyone."
+"How do I add more users to my seller account after registration?
+","After successful primary user registration, Primary/Secondary user can add more users in the following manner. Please remember that these added users must have a working mobile number and email id which is not already registered on GeM:
+
+1. First, log in to your GeM seller account on the official GeM portal (gem.gov.in)
+2. Select 'My Usermanagement' from the dropdown menu under 'My Account' on top right of the screen.
+3. Now click on 'Add New User' button.
+4. Fill in the required details of the new user including name, email address, mobile number, and user role.
+5. An OTP will be sent on provided mobile number. Validate OTP to add user.
+6. The new user will receive a user id and password on the given mobile number and email id. They can login using these credentials.
+
+Hope this helps! Let me know if you have any other questions."
+"I selected the wrong organization type during registration. How can I change this?
+","I'm sorry for the inconvenience you've experienced. At this time, once the registration is complete, the organization type cannot be changed directly by a user. You will need to contact our support team for assistance. Please email your request to change the organization type to support@gem.gov.in. Make sure to include your full name, correct organization type, and user ID in the email."
+"How long does it take to activate my seller account after successful registration?
+","Typically, once you have successfully filled up all required information and submitted the necessary documentation, the activation of your seller account can be expected within 48 hours. However, this is subject to the correctness of information provided and may vary in some cases. You'll receive an email notifying you about the activation of your account."
+"I haven't received approval for my seller registration. Who should I contact?
+","As a chatbot, I suggest you to wait for 48-72 hours for the approval process to complete. In case your seller registration is not approved or you haven't received any update after this duration, kindly raise your issue through the 'Contact Us' option available on the GeM portal. You can alternatively send an email to care@gem.gov.in specifying your issue in detail. Please include all necessary details such as your User ID and Reference number of your registration to expedite the process."
+"What all documents and details do I need to have ready before seller registration?
+","Before you start the seller registration process on Government e-Marketplace (GeM), ensure you have the following documents and details:
+
+1. Business/Organization details: This includes the name, type, and address of your business. You should also have industry details like the nature of your business or the services/products you provide.
+
+2. GSTIN: A valid GSTIN (Goods and Services Tax Identification Number) is mandatory for sellers on GeM. Ensure you have this ready for the registration.
+
+3. PAN number: Sellers need to have a valid PAN (Permanent Account Number) Card for the registration process.
+
+4. Email account: You need a valid business email address to communicate with GeM. This will be used for all future correspondence with GeM.
+
+5. Mobile number: A valid mobile number is required for registrations. This will be used for communication and OTP verification.
+
+6. Bank account details: You need to provide your bank account details for transactions on GeM. Details should include Account Number, IFSC code, and bank name.
+
+7. Digital Signature Certificate (DSC)/E-Signing: For signing the legal documents on GeM, sellers must have class III Digital Signature Certificate (DSC). If DSC is not available, an Aadhaar number can be used for E-Signing.
+
+8. Authorization Letter (Optional): An authorization letter if the registration is being done by an authorized signatory. 
+
+9. Trademark Certificate (Optional): Certificate of registration of brand name if you wish to register as an OEM (Original Equipment Manufacturer). 
+
+Ensure you have all these documents and details to make the seller registration process smooth."
+"I want to register multiple organizations under my seller account. Is that allowed?
+","No, it is not possible to register multiple organizations under one seller account on GeM. Each individual seller account on GeM is associated with a unique organization. If you wish to sell products from different organizations, you will need to create separate accounts for each one. Each organization must also have its own unique email address and mobile number for registration."
+"Can I update my seller profile information after registration is complete?
+","Yes, you can update your seller profile information even after registration has been completed. This can typically be done by logging into your account and visiting your profile settings. However, certain key information such as your business name and tax details may not be editable as these are crucial for legal and verification purposes. For such changes, you may need to contact GeM support directly."
+"I'm unable to log into my seller account after registration. What should I do?
+","I'm sorry to hear that you're having difficulties logging into your seller account. Follow these steps to troubleshoot the issue:
+
+1. Double check the correctness of the username and password you've entered. These details are case sensitive.
+2. If you've forgotten your password, you can use the 'Forgot Password' link on the login page to reset your password.
+3. Ensure your account is verified. After registration, an account verification link is sent to your registered email address. If your account isn't verified, it may hinder your login.
+4. Clear your browser's cache and cookies, as this may sometimes cause login issues.
+5. Try a different browser to see if the problem is browser-specific.
+
+If the problem persists, please contact the GeM Support Team helpline at 0120-4001 002 / 0120-4200 462 or email them at helpdesk-gem@gov.in. They will be able to assist you further."
+"Who can I contact for any registration or account related queries?
+","For any registration or account related queries, you can contact the GeM support team. 
+
+You can reach them via the Call Centre (Toll-free) number: 1800-419-3436 | 1800-102-3436, available 24x7.
+
+Or you can use the 'Raise a ticket' feature on the GeM portal to report your issue. The support team will get back to you as soon as possible.
+
+Remember to have your User ID and other relevant details handy while reaching out to ensure a smooth resolution process."
+"What categories of products or services am I allowed to sell on GeM? Are there any restrictions?
+","On GeM, sellers can list a wide variety of products across multiple categories such as IT & Electronics, Office & School Supplies, Kitchen & Catering, Home & Outdoors, Health & Personal care, Industry & Lab items, etc. As for services, you can list various consulting, support and professional services.
+
+However, you should note that prohibited items like drugs, firearms, or any illegal goods or services as per the Indian legal framework can't be sold on GeM. Also, any product not covered under the ""Specific Product or Service Policy"" of the GeM site may not be allowed for listing and selling. It's best to check the GeM Seller Policies or contact GeM Customer support for detailed and accurate information regarding this before listing any product or service."
+"I import some of my inventory. Can I still register as a seller on GeM?
+","Yes, you can still register as a seller on GeM even if you import some of your inventory. The primary requirement for sellers is that they should be compliant with the Indian laws. Please ensure that the import process and documents comply with the Indian Customs and Import policies. After that, you can list such products on GeM."
+"I don't have a business registered in India. Can I still sell on GeM?
+","I'm sorry, but as per the current policies, only sellers and service providers who are registered in India can sell on Government e-Marketplace (GeM). It’s a government-run e-commerce portal where only Indian businesses can participate. They also have to comply with other qualifications and criteria. Please contact us, if you decide to register your business in India in the future and wish to sell your products or services on GeM."
+"Are there any prerequisites or criteria my business needs to meet to be eligible to register as a seller?
+","Yes, there are certain criteria your business needs to meet to be eligible to register as a seller on Government e-Marketplace (GeM):
+
+1. The business must be legally allowed to operate in India. It means the business should be registered in India, having all the necessary licenses and registration certificates.
+2. You need to have a valid GST number for delivering goods or services across states in India.
+3. The business should have a proper bank account tied to the same PAN number as the business registration.
+4. The email ID and mobile number used for the registration must be unique and can't be associated with an already registered entity on GeM.
+5. You should not have been blacklisted by any government entity.
+
+Please note that these criteria may change over time, so it's a good idea to check the official GeM documentation for the most up-to-date information."
+"What type of pricing models can I use when listing my products/services on GeM?
+","As a seller on GeM, you have two main pricing models to work with:
+
+1. Market Based Pricing: In this model, you as a seller can decide and list the price of products after checking with the prevailing market rates. You can adjust the prices as per your cost distribution, competition, and market trends.
+
+2. Dynamic Pricing: In this model, sellers have the provision to change the price in accordance with the fluctuation of price in the market. As a seller, you'll monitor the price variation and adjust the price accordingly.
+
+Remember, while deciding on the pricing, you have to make sure it is inclusive of all taxes and is fair, reasonable, and market compatible."
+"How do I get payment for my sales on GeM? What are the payment methods and timelines?
+","There are different types of contracts on GeM - Direct Purchase, L1 Purchase, and Bidding/RA contracts. 
+
+For Direct and L1 purchases, payment should be made directly by the buyer to the seller as per the following timelines:
+- For domestic goods or services, payment shall be made within 10 days of the date of the receipt and acceptance of goods or services or the date of receipt of the invoice, whichever is later.
+- For imported goods, payment shall be made within 3 days excluding the date of submission of the bill.
+
+For contracts awarded through Bidding/RA, the payment shall be released as per the payment terms laid down in the bid document.
+
+Payments are made via online bank transfers, so ensure that your correct banking details are updated in your GeM portal. It's important to note that GeM does not charge any registration fee, transaction fee or commission for the products sold via its portal."
+"Are there any fees or commissions charged to sellers on transactions done via GeM?
+","Yes, GeM charges a nominal marketplace fee from sellers for the transactions made on the platform. However, the specific amount of the fee can vary. For the latest information regarding the fee structure, you should refer to the official GeM website or reach out to GeM's support system."
+"Can I register a brand new business on GeM that is not operational yet?
+","No, you cannot register a business that is not yet operational on GeM. As per GeM's registration criteria, only sellers like Original Equipment Manufacturers (OEM), Service Providers, Resellers authorized by OEM, authorized agents of OEM, or e-Marketplace can list their products or services. Besides, sellers need to provide proof of having delivered their offered goods/services in the last one year. This aims to ensure only operational and experienced businesses are a part of the platform."
+"Are there any seller workshops or training programs to help me learn using GeM portal?
+","Yes, Government e-Marketplace (GeM) periodically organizes training sessions and workshops for registered sellers. The information about these training sessions is usually posted on the GeM Portal under the Training section. 
+
+You can find several resources including user manuals, FAQs, and tutorial videos on the seller dashboard to help you understand how to use the GeM Portal effectively. There's also a dedicated GeM Learning Management System (LMS) that provides self-paced training modules on various aspects of GeM. 
+
+We encourage sellers to keep checking the GeM Portal and their registered email for updates about upcoming seller training programs and workshops."
+"Whom should I contact if I face technical issues with registration or using the seller portal?
+","If you are experiencing technical difficulties with registration or using the seller portal on Government e-Marketplace (GeM), please reach out to our GeM Support Team. You can call our help line at 1800-419-3436 or 1800-102-3436, available 24/7. You can also send an email to care@gem.gov.in detailing your issue for further assistance."
+Is there a size limit on documents I need to upload during registration?,"Yes, there is a size limit for document upload during your registration process on GeM. The maximum size for each document should not exceed 5MB. Ensure that you compress your files such as certificates, licenses, etc. while maintaining their clarity and readability before uploading, if they exceed this limit."

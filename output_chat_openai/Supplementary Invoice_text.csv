@@ -1,0 +1,105 @@
+"What are the eligibility criteria to generate a supplementary invoice for rejected quantities by the consigny?
+","The eligibility criteria for generating a supplementary invoice for rejected quantities by the consignee on GeM are as follows:
+
+1. The seller is a registered and approved user on GeM.
+2. The seller has successfully delivered the order, but some quantity was rejected by the consignee during inspection.
+3. The seller is able to provide evidence that the rejected quantities were either repaired or replaced.
+4. The repaired or replaced goods were re-inspected and accepted by the consignee.
+5. Post consignee acceptance, a CRAC (Consent for Return and Acceptance Certificate) has been generated on the GeM portal.
+
+After all these conditions are met, the supplier (seller) can generate a supplementary invoice against the accepted quantity by the consignee. Remember, all these processes must be carried out strictly within the guidelines and terms specified by GeM."
+"If the consigny rejects some quantity at the time of PRC generation, where do I find the option to create a replacement invoice as a seller?
+","If the consignee rejects some quantity at the time of PRC generation, as a seller you can find the option to create a replacement Invoice under the Orders menu. 
+
+Here are the steps:
+1. Login into your GeM Seller account.
+2. Go to the ‘Orders’ section.
+3. Find the order for which you need to create a replacement invoice.
+4. Click on the 'Actions' tab.
+5. From the drop-down menu, select 'Create Replacement Consignee Invoice'.
+
+Remember, you can exercise this option only when the Consignee has rejected some quantity at the time of PRC generation. 
+
+If you're still facing issues, kindly refer to the detailed manuals available for Sellers on the GeM portal under the 'Resource Center' section or contact GeM Customer Support for further assistance."
+"If the consigny rejects some quantity at the time of CRAC generation, what options do I have as a seller to create a supplementary invoice?
+","If the consignee rejects some quantity at the time of Consignee Receipt and Acceptance Certificate (CRAC) generation, as a seller, you can create a supplementary invoice. These are steps you need to follow:
+
+1. In the GeM portal, you will need to provide the details of the partial acceptance of products or services by the consignee in the system, mentioning the quantity accepted and rejected.
+
+2. Generate the invoice in the system for the accepted quantity only. The invoice generated needs to be downloaded and kept for future references.
+
+3. Now, dispatch the accepted quantity of products and upload the proof of dispatch in the system.
+
+4. Regarding the rejected quantity, communicate with the buyer to understand the reason if it is not clearly stated. If there is a chance to rectify the issues, do so or else refund for the rejected portion.
+
+Remember, it's always crucial to maintain quality service to reduce the chances of product rejection and build a strong relationship with buyers. You may also consider reaching out to GeM support for any exceptional situations."
+"What is the time limit within which I need to create the supplementary invoice for the rejected quantity - is it within the delivery period of the contract?
+","No, the supplementary invoice for the rejected quantity should be created by the seller within 10 days from the date of rejection of the goods by the buyer. It is not dependent on the delivery period of the contract. The seller should replace the rejected goods as soon as possible to maintain good customer relations and reputation on GeM."
+"For the rectification and replacement invoices I create as a seller, will these invoices reference the original invoice number?
+","Yes, replacement invoices created for rectification should reference the original invoice number. This maintains a clear audit trail and transparency in the selling and buying process. Always ensure that all your documentation is up-to-date and accurately linked for smooth operations."
+"As a seller, how many times can I declare reshipment for the same shipment or invoice?
+","As a customer service bot for Government e-Marketplace (GeM), I am unable to provide specifics as GeM has not officially released any specified cap on the number of times a seller can declare reshipment for the same shipment or invoice. However, it's important to maintain a high standard of service by attempting to deliver the orders in the first attempt itself. In case of any issues, you should always contact GeM customer support for clarification and guidance."
+"Do I as a seller have the option to generate multiple invoices for the same declared reshipment?
+","No, as a seller on Government e-Marketplace (GeM), you cannot generate multiple invoices for the same declared reshipment. The platform allows only one invoice generation per order or reshipment. Remember to ensure all details are correct before generating the invoice for a particular order."
+"What is the process to generate a replacement invoice if the consigny rejects quantity at the time of PRC generation?
+","If a consignee rejects the quantity at the time of PRC (Performance Report Certificate) generation, the seller will not be able to directly generate a replacement invoice. Any issues in this regard should be escalated with the respective buyer, and a mutual agreement must be reached about the disputed quantity. Once this is done, the buyer can revise the PRC accordingly. Now you can generate a new invoice based on the approved quantity in the revised PRC.
+
+Always remember, communication between consignee/buyer and seller is essential to resolve any disputes regarding product quantity or quality. 
+
+Also, please make sure that you follow the terms of the purchase agreement set on the GeM platform to avoid such complications. In case of any difficulty, please do not hesitate to reach out for support services available on the GeM portal."
+"What do you mean by deemed, auto, PRC and CRAC cases? Why are these invoice types not eligible for supplementary invoice creation?
+","In the context of Government e-Marketplace (GeM), let's explain these terms:
+
+1. Deemed: Deemed cases in GeM generally refer to transactions which are automatically assumed to be accepted due to failure of the buyer to inspect or reject goods/services within the stipulated inspection period.
+
+2. Auto: Auto cases might refer to transactions where certain processes are automated like auto order placement or auto order cancellation.
+
+3. PRC: PRC stands for Payment Receipt Certificate. It is generated by the buyer after confirming the receipt of the product or service. 
+
+4. CRAC: It stands for Consignee Receipt and Acceptance Certificate, it is a document that verifies delivery and acceptance of goods.
+
+These invoice types: deemed, auto, PRC and CRAC are not eligible for supplementary invoice creation because these conditions are applied when the transaction is completed and accepted under certain conditions or circumstances. A supplementary invoice can only be created when there is a need to add additional details or to amend information in the originally issued invoice, such as changes in tax rates, price changes, etc. Since Deemed, auto, PRC and CRAC cases are finalized transaction situations, you cannot modify them or add supplementary details. These cases represent an automatic acceptance of the original invoice and the transaction itself."
+"You mentioned all replacement invoices would be treated as new invoices - what does this mean in terms of invoice numbers, invoice dates etc?
+","When we say that all replacement invoices are treated as new invoices, it means that the replacement invoice should have unique invoice details, not a reproduction of the original invoice. This includes a different/new invoice number and invoice date. The replacement invoice should contain all the details of a valid invoice, like the buyer and seller details, product details, invoice value, etc. Each invoice, including adjustment invoices, should be uniquely identified, so they don't create problems during the assessment or audit process. Please ensure proper sequential allocation of invoice numbers to avoid confusion and ensure smooth processing."
+"What documents or information do I need to provide when creating a supplementary invoice for rejected quantities?
+","Creating a supplementary invoice for rejected quantities on GeM requires the following information or documents:
+
+1. **Seller's Details**: This includes the legal name, registered address, and GSTIN of the seller.
+
+2. **Buyer's Details**: The legal name, address, and the GSTIN of the buyer should be clearly specified.
+
+3. **Original Invoice Reference**: The details of the original invoice against which the supplementary invoice is being created, including the invoice number and date.
+
+4. **Product Details**: Detailed description of the goods, including the quantity and the unit cost.
+
+5. **Reason for Rejection**: A brief explanation outlining the reason why the items were rejected.
+
+6. **Amount Details**: The total amount of the supplementary invoice including the applicable taxes and cess if any. This should also highlight any differences with the original invoice.
+
+7. **Signatures**: The invoice must be signed and dated by the authorized person.
+
+Please note, the actual requirements might slightly vary based on the specific guidelines given by GeM. It is highly recommended to check the GeM's updated requirements before creating a supplementary invoice."
+"Is there a limit on the number of times I can create a supplementary invoice for the same original invoice?
+","As of now, there is no specified limit on the number of times you can create a supplementary invoice for the same original invoice on the Government e-Marketplace (GeM) platform. However, it is recommended to minimize the creation of supplemental invoices as much as possible to maintain clarity and transparency in transactions. You should always ensure that all necessary details are correctly entered in the original invoice before submission. If there are constant errors and corrections, it may lead to complications and trust issues with buyers. Please always keep in mind the GeM's guidelines regarding billing and payments."
+"If only some items in the original invoice are rejected, can I create a supplementary invoice just for those rejected items rather than the full invoice quantity?
+","Yes, you can create a supplementary invoice for the rejected items instead of the full invoice quantity. This allows you to separate the rejected items from the ones that have been accepted. However, it's crucial to denote these items clearly and provide a detailed explanation for the rejection and resubmission in the newly created supplementary invoice. Also, the supplementary invoice should be consistent with the regulations and requirements established by the GeM."
+"Does the supplementary invoice go through the same invoice processing and payment stages as the original invoice?
+","Yes, the supplementary invoice goes through the same invoice processing and payment stages as the original invoice. It will be processed and paid by the respective government department, just like the original invoice. The department will check the details of the supplementary invoice, approve it, and then proceed with the payment. It's advised to make sure all details are correctly included in the supplementary invoice to avoid any possible delays."
+"Do I need to wait for approval from GeM before shipping the replaced/rectified quantities to the consignee?
+","No, you do not need to wait for approval from GeM before shipping the replaced or rectified quantities to the consignee. You can proceed with the shipping as soon as the issue has been addressed and the goods have been replaced or rectified. However, it's important to ensure the quality of the goods and to strictly adhere to the terms and conditions outlined in the contract."
+"If there are transportation charges related to reshipping the rectified/replaced quantities, can I include those charges in the supplementary invoice amount?
+","No, you cannot include transportation charges related to reshipping rectified/replaced quantities in the supplementary invoice amount. As per GeM policies, the cost of transportation, in such cases, should be borne by the seller. This is because the need for reshipping arose due to some fault or negligence on the seller's part."
+"Is the process for creating supplementary invoices any different if I had used e-billing instead of manual billing for the original invoice?
+","No, the process for creating supplementary invoices remains the same irrespective of whether you used e-billing or manual billing for the original invoice. The main purpose of a supplementary invoice is to revise the amount of the original invoice due to Additional/Short supply of goods or services, which cannot be edited in original invoice. Always ensure that you're complying with GeM's guidelines while creating supplementary invoices."
+"If multiple invoices were clubbed under one CRAC earlier, do I need to create separate supplementary invoices for each original invoice with rejected items?
+","Yes, as per GeM guidelines, you need to create separate supplementary invoices for each original invoice that had rejected items. This is essential to maintain clarity and accurate record of transactions. Several invoices cannot be clubbed under one Consignee Receipt and Acceptance Certificate (CRAC). Each invoice needs to be individually processed and acknowledged."
+"How do I ensure the replaced/rectified items are accepted this time by the consignee since they were earlier rejected?
+","As a seller, to ensure that the replaced or rectified items are accepted this time, you must adhere strictly to the quality parameters laid down on the GeM marketplace. 
+
+1. Ensure the products meet all the technical specifications as stated in the product description on your GeM platform.
+2. Make sure products are properly packed and delivered to avoid damage in transit.
+3. It's recommended that you are proactive in communication with the buyer. Notify the buyer once you have shipped the rectified product.
+4. Provide proper documentation such as warranty or guarantee card, user manual, etc. wherever applicable.
+
+Remember, the consignee (buyer) has the right to reject items that do not correspond with the description on the GeM or those that do not meet quality standards. So, to make sure your items are accepted, make sure you meet all the recommendations as mentioned."
+By when do I need to make the necessary rectifications or issue replacement stocks for the rejected quantities?,"As per GeM guidelines, after receiving an order, if any quantities are rejected due to quality issues, the seller is mandated to make necessary rectifications or issue replacement stocks within 10 days of such rejection."

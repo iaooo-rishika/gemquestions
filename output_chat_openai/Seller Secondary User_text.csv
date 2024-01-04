@@ -1,0 +1,181 @@
+"What is GeM and how does it work?
+","Government e-Marketplace (GeM) is a platform developed by the Government of India that serves as a central point for procurement of goods and services required by Central and State Government departments, organizations, and Public Sector Units. It simplifies the process of procurement while ensuring transparency and maintaining a high level of efficiency.
+
+How GeM works:
+
+1. **Registration**: As a seller, you first need to register on the GeM platform by providing all the requisite details.
+
+2. **Listing of Products**: Once registered, you can list your goods or services. The platform allows you to put up multiple goods and services for sale.
+
+3. **Buying Process**: Government departments, PSUs, and Autonomous bodies can then access these listings. They can buy the products or services either through direct purchase or bidding or reverse auction.
+
+4. **Payment**: Once a transaction is successful, the payment is processed and directly transferred to the seller's account.
+
+5. **Performance Rating**: Both buyers and sellers are rated on their performance. This rating can influence future transactions and offers a level of assurance for buyers.
+
+GeM provides an open and transparent system for sellers to reach out to the government, making it simpler and more efficient than traditional methods. It also offers tools for easy tracking of payments and real-time tracking of orders and supplies."
+"How do I register as a seller on GeM? What details or documents do I need?
+","To register as a seller on GeM, you will need to follow these steps:
+
+1. Visit the official GeM Portal and select ‘Sign Up’ in the ‘Authentication’ section and choose 'Seller / Service Provider'.
+2. Fill in the registration form with accurate details about your firm such as your organization's type (Proprietor, Partnership, Pvt Ltd, Public Ltd), Company's PAN, your name, mobile number, and email address.
+3. Verify your email and mobile number with the one-time password (OTP) provided.
+4. Fill in more details about your organization, especially the nature of your business (Goods / Services / Both) and address.
+
+Mandatory documents for registration include:
+
+a. Certificate of Incorporation for Pvt Ltd/ Public Ltd.
+b. Partnership Deed for Partnership firms.
+c. PAN Card.
+d. GST Registration Certificate.
+e. Bank details - A cancelled cheque or Bank Certificate.
+f. ITR of last Year, in case of Proprietorship firms, the proprietor’s PAN card and Aadhaar card are required.
+g. Email Id unique to vendor company.
+h. Valid Mobile number.
+
+Once you submit all the necessary details and documents, your request will be processed, and after successful verification, your GeM seller account will be created."
+"What is the process to add a secondary user to my GeM seller account?
+","In order to add a secondary user to your GeM seller account, you need to follow the steps below:
+
+1. Log in to your GeM Seller account.
+
+2. Go to the 'My Account' section and click on 'Manage Users'.
+
+3. Click the 'Add New User' button.
+
+4. Fill out the required information including the user's name, email, mobile number, and role.
+
+5. Select the permissions or roles that you want to assign to this user. Generally, secondary users might be given permission to do things such as manage products, process orders, etc.
+
+6. After you have filled out all the information, click the 'Save' button to add the new user.
+
+This secondary user will now have the ability to log-in using their credentials and perform the tasks permitted by their role.
+
+Please note that only primary users and users with sufficient permissions can add secondary users. 
+
+Make sure to keep your primary user details secure and only provide the necessary permissions to secondary users to maintain security and control."
+"What roles and permissions can I assign to a secondary user?
+","In Government e-Marketplace, the primary user has the authority to create and assign roles to secondary users. Below are some of the roles that you can assign to a secondary user:
+
+1. Product Upload: The user can upload products.
+2. Order Processing: The user can process orders but can't create or edit products.
+3. Bid participation: The user can participate in bids but cannot create or edit products.
+4. Catalog Approver: The user has the authority to approve catalogs but cannot edit them.
+5. Consignee: The user can determine the delivery point for goods or services.
+
+Please note: All roles come with their own set of restrictions and procedures, and it is the primary user's responsibility to ensure these are adhered to for successful management and operations on GeM. Always assign roles wisely to ensure smooth operation of your GeM account."
+"How does the secondary user activate their account after I send them the activation link?
+","The secondary user can activate their account on GeM by following these steps after receiving the activation link:
+
+1. Click on the activation link provided in the email.
+
+2. A new page will open where they have to enter their details like User ID (Provided in Email), Mobile Number (Registered with GeM), and Email ID (Registered with GeM).
+
+3. They will receive an OTP on their registered mobile number and Email ID. Enter this OTP and click 'Verify'.
+
+4. After verification, they will be directed to set their new password.
+
+5. Once they set their password, they are good to go. Login with the User ID and newly set password and start exploring GeM.
+
+Remember, the activation link will expire after 48 hours. If it's not activated within this period, you as the primary user, will need to resend the activation link."
+"Why does the secondary user need to register with PAN or Aadhar based on what I registered with?
+","As a secondary user on the GeM platform, it is important to register with either PAN or Aadhaar, following the primary user's method, in order to maintain consistency and ensure secure verification of user credentials. It aids in avoiding confusion and uncertainties about user identities. This is necessary to ensure the safety and security of all transactions made on the GeM platform. It also assists in maintaining transparency and authenticity between buyers and sellers. Having two different identities for a single account can lead to complications in transactions."
+"What is the process for the secondary user to register using PAN?
+","To register as a secondary user on GeM using PAN (Permanent Account Number), you need to follow these steps:
+
+1. Visit the official GeM portal and click on “Sign Up”.
+
+2. Under the Seller registration section, you'll find two options: primary user registration and secondary user registration. Click on 'Secondary User registration'. 
+
+3. Fill in all the necessary fields with correct information. Make sure you enter the same PAN as your company’s primary user. 
+
+4. Adding a mobile number and email address is mandatory as you'll receive One Time Passwords (OTPs) on these for verification.
+
+5. After completing the above process, a request will be generated and sent to the primary user for approval.
+
+6. Once the primary user approves, you'll be able to complete the process and you can start your journey as a secondary user on GeM.
+
+Please note that only the Primary user (who is also the administrative user) can create secondary users. Secondary user creation is allowed through E-sign & is based on primary user authentication."
+"What details do they need to provide for OTP based verification?
+","To complete the OTP-based verification, sellers on the Government e-Marketplace (GeM) need to provide specific personal and business details. These include:
+
+1. Mobile Number: The mobile number is key as the OTP will be sent to this number. It should be in active use and readily accessible by the seller during the verification process.
+  
+2. Email Address: OTP might also be sent to the registered email address for additional verification.
+   
+3. Personal and Business Details: Depending on the platform's requirements, sellers may need to also verify their identity using personal details (like name, date of birth) or business details (like the name of the business, GST number).
+   
+Please ensure that all the provided details are accurate and updated to avoid any difficulties in the OTP validation process."
+"What is the process for the secondary user to register using Aadhar?
+","Step 1: Visit the Government e-Marketplace (GeM) website and click on ‘Sign Up’.
+
+Step 2: Once you're there, click on ""Secondary User Registration"".
+
+Step 3: You will then need to select the ‘Service provider’ option.
+
+Step 4: Now, enter your Aadhar number.
+
+Step 5: You will receive an OTP on the mobile number linked to your Aadhar. Enter this OTP.
+
+Step 6: The system will display the basic Aadhar details. Confirm these details.
+
+Step 7: Subsequently, provide other information like your email address, business constitution, PAN details, etc.
+
+Step 8: Validate the email and the mobile number through the OTPs sent to both.
+
+Step 9: Once you have filled in all the fields, submit the form.
+
+Step 10: Post submission, GeM will verify the details and you will receive a confirmation on your registered email once the registration is successful.
+
+Remember, in this process, it is important to ensure that your Aadhar number is linked to your current mobile number. Also, the information that you provide while registering should match with the details present in your Aadhar card."
+"After registration, how can the secondary user update their profile details like password, email, and mobile number?
+","To update your profile details, please follow these steps:
+
+1. Sign in to your account through the GeM portal.
+2. Find and click on 'My Profile' or 'Account Settings' from the dashboard.
+3. In the 'Personal detail' section, you can make necessary changes to fields such as your email and mobile number.
+4. If you want to change your password, find the 'Change Password' option, click it and follow the prompts.
+
+Please remember to save all changes before leaving the page, to ensure the updates are successfully implemented. If further help is needed, you can utilize the help section of the portal or contact the support team."
+"Is there any process for me as the primary user to revoke access given to a secondary user?
+","Yes, as the primary user, you have the capacity to revoke the access given to a secondary user. Here is the process:
+
+1. Log into GeM using your Primary User credentials.
+2. Go to 'My Users' option available under 'My Account'.
+3. There you'll find the list of your secondary users. 
+4. Go to the 'Action' column against the secondary user whose access you wish to cancel.
+5. Click on 'Revoke' under the 'Action' column.
+
+Please, note once you revoke the permission, the secondary user will no longer have access to the features or aspects of the GeM portal which were previously accessible to them."
+"Who can I contact if I face any issues in adding or managing secondary users?
+","If you encounter any issues in adding or managing secondary users, please reach out to GeM Support. You can contact them by logging in to your GeM account and navigate to 'Contact Us' section. Alternatively, you can also email the GeM Support team at helpdesk-gem@gov.in. They usually respond within a few hours, working 24*7 to ensure your issues are resolved quickly."
+"What roles can I assign to secondary users (e.g. making purchases, uploading products, managing orders etc.)? Are there any limitations?
+","As a primary user, you can assign various roles to secondary users on GeM. The roles include:
+
+- Buyer: Can select and purchase goods or services.
+- Consignee: Can receive goods or services.
+- DDO (Drawing and Disbursing Officer): Can create and manage financial documents.
+- PAO (Pay and Accounts Officer): Approves and processes bills for payment.
+- EMD (Earnest Money Deposit) Manager: Can initiate, process and close EMD related tasks.
+- Bid Creator: Can create, modify, manage, and upload bids.
+
+However, some limitations are in place for secondary users:
+
+- Secondary users can't change profile settings, they can only perform the roles that are assigned to them.
+- To perform their assigned tasks, they need approval from the primary user.
+- The number of secondary users that can be created depends on what is allowed by the primary user's access level.
+  
+Remember, it's important to assign roles carefully as per the responsibilities of each user to ensure smooth operation on GeM."
+"Do my secondary users require separate login credentials? Can they access my seller account directly?
+","Yes, secondary users do require separate login credentials. The primary user or admin can create sub-users under their main user account and assign them different roles and responsibilities. These secondary users cannot access your seller account directly; rather, they will have their own access limitations set by the admin. This feature ensures the security of your account while permitting operations to go smoothly throughout your team."
+"Can I assign secondary user access to someone outside my organization like an external agency or freelancer?
+","No, as per GeM's policy, the secondary user access can only be given to users who are part of your organization. Sharing of credentials with external entities is strictly prohibited and can lead to suspension of the concerned seller account on GeM."
+"Is there a limit on the number of secondary users I can add to my seller account?
+","No, there is no limit on the number of secondary users you can add to your seller account on GeM. You can add as many secondary users as necessary to manage your account effectively. However, each of these users must have a unique email ID and mobile number."
+"Is any approval required if I want to remove secondary user access that I have granted earlier?
+","No, there is no approval required to remove secondary user access that you have granted earlier. As the primary user or account holder, you have the authority to manage users on your account, including granting and revoking permissions. Please navigate to the user management section in your GeM seller dashboard to make any necessary changes."
+"What kind of profile information is visible to my secondary users when they login? Can they see financial data?
+","The visibility of information to secondary users depends on the permissions granted to them. While they can view basic information related to the business such as business details, products, and orders, access to financial data is generally restricted to maintain privacy and security. This information is mostly accessible only to the primary user or users with specific permissions. It's recommended to set permissions carefully to ensure sensitive data is handled properly."
+"Can secondary users initiate transactions like making a bid or deal on my behalf? Are there any monetary limits imposed?
+","Yes, secondary users can initiate transactions like making a bid or deal on your behalf. However, the primary user (usually the business owner or primary administrator) has the ability to define the monetary limits and responsibilities for each secondary user, if any, during the process of creating secondary users. This is to ensure the smooth functioning of the business while also adding a layer of control and security. Please make sure to set the limits and responsibilities as per your business requirements."
+Are communications from GeM sent only to me (primary user) or do secondary users also receive them?,Communications from GeM are sent to both primary and secondary users associated with the seller account. This ensures that all important updates and information are accessible to all authorised stakeholders in the selling process.

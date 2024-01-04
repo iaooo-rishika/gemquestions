@@ -1,0 +1,210 @@
+"What are the new options available for buyers when creating a BOQ bid?
+","Buyers, when creating a BOQ (Bill of Quantity) bid on Government e-Marketplace (GeM), have several options available. Here are some of the options usually available:
+
+1. Bid type: Buyers can choose between Open, L1, Direct Purchase, and others depending on their need.
+
+2. Bid duration: Depending on the nature of the product or service, the buyer can choose the bid duration that suits best.
+
+3. Bid evaluation: Buyers can opt for methods such as lowest price, quality cum cost based, or negotiation based evaluation.
+
+4. Item specifics: Buyers can define the items, quantity, and specifications they require.
+
+5. Bid visibility: Buyers have an option to keep their bid public or limit the visibility to certain sellers.
+
+6. Multiple Offers: Buyers can allow sellers to offer multiple bids.
+
+7. Consignee locations: Buyers can add multiple delivery locations.
+
+Please note that options may vary according to the type of purchase, procurement method and nature of goods/service. The latest updates or added features can be checked on the official GeM portal."
+"What is item-wise evaluation and group-wise evaluation in BOQ bids?
+","In the context of GeM (Government e-Marketplace), Bid evaluation methods are used to assess the bids submitted by sellers and to determine the most cost-effective options. The two bid evaluation methods used on GeM are Item-wise Evaluation and Group-wise Evaluation:
+
+1. **Item-wise Evaluation**: In this method, each line item in the Bid of Quantities (BOQ) is evaluated separately. Therefore, a buyer may end up procuring different line items from different sellers. This method offers flexibility to the buyer in selecting the most advantageous bid for each item.
+
+2. **Group-wise Evaluation**: This method involves evaluating the total cost of all line items in the BOQ bid. With this method, the buyer procures all items from a single supplier, who is deemed to offer the best value for the entire package of goods or services. 
+
+Note: The choice between these methods is generally contained in the bid documents and depends upon the procurement needs and discretion of the buyer."
+"What is the minimum value for creating a BOQ bid?
+","The minimum value for creating a Bid/Offer or BOQ (Bill of Quantity) bid on the Government e-Marketplace (GeM) is Rs. 25,000. Please ensure to follow all guidelines provided for creating a BOQ bid."
+"For item-wise evaluation, what does the buyer need to specify?
+","For item-wise evaluation on GeM, the buyer needs to specify:
+
+1. The criteria of evaluation: These can include factors like quality, cost, delivery time, past performance of sellers, etc.
+2. The weightage assigned to each criteria: Criteria that are more important to the buyer should be assigned a greater weightage.
+3. The scoring model: This will define how each vendor's offer is scored against the evaluation criteria.
+4. Relative importance of price and non-price factors: In some cases, non-price factors such as quality and delivery time may be more important than price. The buyer needs to indicate this clearly.
+ 
+Remember that the evaluation criteria should be related to the item being purchased and must comply with the rules and regulations of the GeM."
+"For group-wise evaluation, what does the buyer need to specify?
+","For group-wise evaluation on GeM, the buyer needs to specify items/products in groups. They should clarify that the evaluation will be performed on a group of items rather than individually. Features such as grouping similar items together, marking primary and optional items, and setting a maximum and minimum quantity, among other things, will have to be specified. It's also important that the buyer details the evaluation formula he intends to utilize."
+"Can a buyer give a title to a BOQ bid? If yes, why is this useful?
+","Yes, a buyer can provide a title to a BOQ (Bill Of Quantities) bid while creating a bid in the GeM platform. Providing a relevant and descriptive title to a BOQ bid is beneficial because it allows the seller to easily understand the specific requirements and the nature of products or services that are needed. This ultimately results in better response from sellers who satisfy those particular specifications, leading to a more efficient and successful bidding process."
+"What can a buyer choose to do after technical evaluation of bids?
+","After the technical evaluation of bids, the buyer has several options. They can:
+
+1. Choose to accept the most appropriate bid based on the evaluation.
+2. Open the price bids of the technically qualified sellers for financial evaluation.
+3. Cancel the bid if it does not meet all the requirements.
+4. If needed, the buyer has a right to negotiate with the bidder for better terms such as quality, price, delivery, servicing etc.
+5. In the case of a tie in terms of price amongst technically qualified bids, the buyer may ask the tied bidders to submit revised commercial bids for deciding the successful bidder. 
+
+It's important to note that the final decision is made taking into account both technical and financial suitability."
+"How can a seller search and select a BOQ bid to participate in on GeM?
+","To search and select a BOQ (Bill of Quantities) bid to participate in on GeM, follow the steps below:
+
+1. Log in to your seller account on the GeM portal.
+
+2. On the dashboard, go to 'Bids/RAs' and from the dropdown, select 'BOQ Bids'.
+
+3. Click on 'View All Bids' or use the search bar to find a specific bid. You can also apply filters such as 'Bid Type', 'Bid Submission Date', 'Buyer Type', 'Categories', etc. to narrow down the search.
+
+4. Once you find a suitable bid, click on it to view the details.
+
+5. If the bid matches your product/service, you can click on 'Bid Now'.
+
+Please note that each bid will have its specific terms and conditions which sellers must check and comply with before they decide to select and participate in the bid."
+"What steps does a seller need to follow to participate in a BOQ bid on GeM?
+","To participate in a BOQ (Bill of Quantity) bid on GeM as a seller, follow these steps:
+
+1. Registration: Register on the GeM Portal as a seller. You will need to provide all the necessary business details, including PAN, Aadhar, and bank account details.
+
+2. Profile Completion: Complete your seller profile after registration. This will include your organization details, services, contact info, bank details, etc.
+
+3. Select the Product/Services: Select the product or services you wish to bid on. Ensure you meet the criteria and have the necessary certifications if required.
+
+4. Accept Terms and Conditions: Read and accept the Terms & Conditions for participating in the bid.
+
+5. Submit the Bid: In this step, you provide your pricing and other details. Be careful while bidding, as you cannot edit your bid once submitted. Submit your bid after you have reviewed everything.
+
+6. Follow the Rules: Abide by the rules and regulations set by the GeM for the sellers to participate in the bid. Ensure you do not involve in any malpractices.
+
+7. Wait for Results: Once the bid is closed, the buyer will evaluate all the bids received and will declare the L1 (lowest bidder). If your bid is the lowest and meets all the tender criteria, you will be awarded the contract.
+
+8. Fulfill the Order: Fulfil the order as per the terms and conditions of the contract if you are awarded the bid.
+
+Remember, compliance with all these steps does not guarantee winning the bid; it merely ensures eligibility for consideration. Winning the bid depends on factors such as product quality, delivery timelines, price, etc. as per buyer's requirement."
+"What documents does a seller need to upload when participating in a BOQ bid?
+","To participate in a Bid/RA on Government e-Marketplace (GeM) as a Seller, you will need to provide the following documents:
+
+1. Digital Signature Certification (DSC) - This is mandatory for participating in a BOQ bid. Make sure it is class II or III.
+  
+2. Business PAN - The PAN card of the business for which you are bidding.
+
+3. GSTIN Details - GST details for your invoicing.
+
+4. Bank Account Details - For account verification and transaction purposes.
+
+5. Aadhar Card Number of the Bid Signer - The Aadhar number of the person who is authorized to sign the bids on behalf of the seller. 
+
+6. Certificate of Incorporation/Registration - Necessary identification and verification document, especially if you own a company, society, trust, etc.
+
+7. MSME/Startup Certificate - If you own a small, medium business or startup, you must upload the associated certificates.
+
+8. Annual Report / Audited Balance Sheet / CA Certificate – Your financial documents.
+
+9. ITR (Income Tax Return) – Your income tax return documents for the last 3 years.
+
+All these documents need to be valid and relevant to avoid any issues during the process."
+"What kind of financial documents does a seller need to upload?
+","To sell on the Government e-Marketplace (GeM), sellers need to upload the following financial documents:
+
+1. PAN Card: Number and Scanned copy for Indian Sellers or For foreign sellers, a valid identification number in the country of residence needs to be uploaded.
+2. GSTIN (Goods and Services Tax Identification Number): Details and scanned copy for verification, if applicable.
+3. Bank Account: Sellers need to provide an Indian bank account with its IFSC Code, account number.
+4. Udyog Aadhaar Number (UAN) or Aadhaar Number: If available.
+5. Income Tax Return: Sellers are also required to furnish financial information related to their company such as their income tax return documents or audited financials for the previous financial year.
+6. DSC (Digital Signature Certificate), in case DSC based bid participation is preferred by the seller.
+
+Please note that these are the standard requirements and further documentation may be required based on case-specific circumstances. It is recommended to keep all your related documents ready before starting the registration process."
+"How does a seller submit the bid after uploading documents?
+","Following the successful upload of the necessary documents, a seller can submit the bid on GeM with these steps:
+
+1. Login to your GeM Seller Account.
+2. Navigate to ""My Bids"" in the dashboard.
+3. Here, you'll see the list of bids you've created. Next to the bid you want to submit, click on the ""Action"" button.
+4. Click on ""Submit Bid"". Your bid has been successfully submitted.
+
+Remember that once you have submitted the bid, you cannot modify it, so ensure that all the information is correct and final before submitting."
+"How does a seller verify their bid submission?
+","After a seller submits their bid on the GeM portal, they can verify their submission by following these steps:
+
+1. Log in to your seller account on the GeM portal.
+2. Navigate to the 'Bids/RA' tab.
+3. Here you can view 'My Submitted Bids/RA'. Click on it.
+4. A list of all your submitted bids will appear.
+5. Find the bid you want to verify and check its status. If the status shows 'Submitted', it implies that your bid has been successfully submitted.
+
+Remember, you'll also receive a confirmation email regarding the bid submission to your registered email address."
+"How can a seller confirm that their bid has been successfully participated in?
+","Once a seller has successfully participated in a bid on GeM, they will receive a confirmation email and notification on their registered email and GeM Dashboard respectively. They can also check the status of their bid by logging into their account and navigating to the ""My Bids"" page. Here they can see all the bids they have participated in and their current status."
+"What kind of support does GeM provide to sellers participating in BOQ bids?
+","Government e-Marketplace (GeM) provides several types of support to sellers participating in BOQ (Bill of Quantities) bids. This includes:
+
+1. Bid Submission Assistance: GeM assists sellers in the bid submission process by guiding them on the necessary steps and requirements such as uploading product specifications, pricing, etc.
+
+2. Training: GeM provides sellers with comprehensive training and resources to help them understand the bidding and procurement process. This includes webinars, tutorials, and manuals that outline the features and functionalities of the e-Marketplace.
+
+3. Technical Support: GeM provides technical support to sellers to resolve any issues they may encounter when submitting a BOQ bid. This can range from difficulties with uploading documents to navigating the GeM portal.
+
+4. Customer Support: GeM provides a dedicated customer support service for sellers to answer any queries or concerns they might have in regards to their participation in BOQ bids. Sellers can reach out to GeM via email, phone, or through a chat support on the GeM portal.
+
+5. Buyer-Seller Meetups: GeM organizes regular buyer-seller meetups to increase communication and transparency between the two parties. These events can help sellers better understand the buyer's requirements, which can be invaluable when participating in BOQ bids.
+
+Please note that services available may vary and it's best to refer to the official GeM portal for the most accurate and updated information."
+"If I make a mistake in my BOQ bid, is there a way to edit or withdraw my bid?
+","Yes, if a supplier makes a mistake in the BOQ (Bill of Quantity) while bidding, they have the option to either edit or withdraw the bid. However, this can only be done prior to the bid submission end date and time. After the closing date, the bid submission will be deemed final and cannot be modified or withdrawn. Always be sure to review your bid carefully before submission to avoid any errors."
+"Is there a limit to how many BOQ bids I can participate in at one time as a seller?
+","No, there is no limit to how many BOQ (Bill of Quantity) bids you can participate in at one time as a seller on Government e-Marketplace (GeM). However, it's important for you to manage your bids effectively to ensure you can fulfill orders in the event you win multiple bids."
+"What are the different status updates I will receive after submitting a BOQ bid?
+","After submitting a Bid/Offer/Quote (BOQ) on GeM, you will receive various status updates that indicate the progress of your bid, these include:
+
+1. Submitted: Your bid has been submitted successfully.
+2. Under Evaluation: Your bid is currently being evaluated by the buyer.
+3. L1/L2/L3 etc.: You are the Lowest (L1), 2nd Lowest (L2), 3rd Lowest (L3) etc. bidder in the competition.
+4. Bid winner: If your bid is successful and has been accepted by the buyer, your bid will be marked as the bid winner.
+5. Rejected: If your bid has not been accepted, it will be marked as rejected. The reasons for rejection could include non-compliance with bid conditions, not being competitive in terms of price, etc.
+6. Under Contract: Your bid has been accepted and the contract is being processed/ signed.
+7. Contract Signed: The contract has been signed, which formalizes the purchase from the buyer side.
+
+Please note that you will be receiving email notifications for each status update from GeM."
+"How does the price matching work in BOQ bids on GeM?
+","The Price Matching feature in the Bill of Quantity (BOQ) bids on GeM works by comparing the lowest quoted price for a specific item with the quote from other sellers. Whenever a buyer generates a bid or bid invitation, every seller gets a chance to quote their prices.
+
+The system will then automatically match and compare the offered prices for the products/services by each seller. The seller who gives the lowest quote for that product or service wins the bid.
+
+However, it is noteworthy that the buyer may not always select the lowest quoted price but can also factor in product quality, seller credibility, past performance on the platform, and other relevant factors when choosing a seller. The key is to strike a balance between competitive pricing and unique value proposition. The decision of the buyer is final in these cases.
+
+Please remember that all bids should be submitted accordingly for transparent and competitive bidding before the Bid Closure Time for the BOQ. Late submissions are generally not considered. 
+
+In all scenarios, it is advised to categorically specify product specifications, terms, and conditions in the BOQ to avoid any potential dispute or confusion in the future."
+"Can I provide a discount on my total bid price during the price matching stage?
+","No, you cannot provide a discount on your total bid price during the price matching stage. It is required to submit your best competitive prices at the time of initial bid itself on GeM. The price quoted should be inclusive of all taxes and delivery charges. The price matching stage is an opportunity for you to match your prices with L1 (lowest) bid, but you cannot offer an additional discount on your already quoted price."
+"How long does it usually take for a BOQ bid evaluation result to be published after bidding closes?
+","The Bid Evaluation typically takes about 10 days after the bidding closes. However, the actual duration may slightly vary as per the complexity of the bids received. Please remember to check the status regularly on your GeM portal as notifications are also sent in each step."
+"Is there an advantage to submitting my BOQ bid early versus waiting until the last day?
+","Early submission of your Bid of Quantity (BOQ) bid on the Government e-Marketplace (GeM) indeed benefits you in a number of ways. Most importantly, it helps avoid last minute technical glitches or human errors that may prevent a successful submission. It also gives ample time for rectification if any errors are found by the system in your bid.
+
+Furthermore, occasionally, buyers may start the technical evaluation of bids as and when they are submitted instead of waiting until the deadline. In this case, early submissions may have an advantage. However, buyers still have to wait until the closing time to evaluate all bids.
+
+Therefore, while there is no explicit advantage in the evaluation process of submitting your bid early, it helps to ensure smooth and error-free submission."
+"What are some common reasons bids get disqualified during technical evaluation?
+","There are several reasons why a bid may get disqualified during the technical evaluation stage on GeM:
+
+1. Non-compliance with the terms and conditions: Sellers must strictly comply with all the terms and conditions specified in the tender document. Failing to do so can lead to disqualification.
+
+2. Incorrect or misleading information: If the seller provides incorrect or misleading information about their product or service, their bid can be disqualified.
+
+3. Incomplete information: If the seller has not filled all the required fields or if any mandatory attachments are missing, their bid might be rejected.
+
+4. Lack of technical ability: If the seller cannot meet the technical requirements or specifications set out in the bid, it may lead to disqualification.
+
+5. No Compliance Certificate: If the seller doesn't provide the necessary compliance certificates for their products or services, their bid can be disqualified.
+
+6. Delayed response: If the seller does not respond to queries or does not provide additional information as per deadline set by the buyer, this delay can lead to disqualification.
+
+7. Pricing issues: If the prices quoted are extraordinarily high or unrealistic, it can lead to the bid getting disqualified.
+
+Please make sure to carefully read the bid requirements and conditions to avoid disqualification."
+"If my bid gets disqualified, can I speak to someone to understand why?
+","As a chatbot, I can tell you that in Government e-Marketplace (GeM), reasons for disqualification are usually mentioned in the bid result. However, for a more detailed explanation or to discuss any specific issue, the GeM Support Team is available. You can contact them through the Help Desk. Note that as the entire process is transparent and regulated, the reasons for disqualification are objective and based on the terms and conditions of the bid."
+How soon after bid submission can I expect payments if my bid wins?,"While GeM itself doesn't facilitate direct payments, once your bid has been selected as successful by the buyer (government department or agency), they would be raising a purchase order. The payment terms and schedule are usually outlined in the payment terms by the buyer. Typically, government departments should make payment within 10 days of receipt of goods/services or the acceptance of the contract. However, this might vary based on specific contract terms or government policies. Please make sure you thoroughly review the payment terms in any contract or tender documentation."

@@ -1,0 +1,81 @@
+"What is the Clone Catalogue functionality on GeM and how does it work?
+","The Clone Catalogue functionality on GeM (Government e-Marketplace) offers sellers a convenient way to list similar products or services without having to create a new catalogue from scratch. 
+
+This is how it works:
+
+1. Sellers navigate to their product catalogue that they'd like to clone or replicate.
+2. They select the 'Clone Catalogue' option.
+3. The system will generate a new catalogue with the same information as the cloned catalogue.
+4. Sellers then have the option to edit any details in the new catalogue as required. For instance, they may adjust the product description, specifications, pricing, etc., based on the new product they intend to list.
+5. Once all necessary changes are added, sellers can save and submit the new catalogue for approvals if there are any, otherwise it will directly go live on GeM.
+
+This feature helps in minimizing the time and effort in listing similar products or services on the platform."
+"How can I find the catalog ID of an existing catalog to clone?
+","To find the Catalog ID of an existing catalog to clone in GeM:
+
+1. Sign in to your GeM seller account.
+2. Go to your Seller Dashboard.
+3. Click on 'Manage Products' in the main menu.
+4. Locate 'My Catalogs' section.
+5. Here, you can see the list of your catalogs along with their IDs.
+
+Once you find the correct Catalog ID, use the 'Clone Catalog' feature if it's available. Please note that the exact steps might vary slightly based on the layout and updates on the GeM platform."
+"Do I need to make any changes to the cloned catalog specifications before publishing or can I publish an identical copy?
+","When you clone a product catalog on GeM, you need to make sure the specifications and details in the cloned catalog are accurate to what you're selling. If you're selling a product that's genuinely identical to the already published one, it's possible to create and publish a clone with the same details. However, if there are any manufacturers, prices, specifications, or model changes, you should update those details prior to publishing. Incorrect or misleading information could impact your seller account negatively."
+"What is the purpose of the dialog box consent to confirm cloning specifications?
+","The purpose of the dialog box consent to confirm cloning specifications is for a seller to indicate their agreement to the specifications of a product already listed on GeM, which they wish to clone for a new listing. This is a convenience feature that helps sellers to create a new listing for a product that is similar or identical to an existing one, without having to repeat the entire listing process from scratch. By confirming cloning, the seller is acknowledging that both the original and the new product meet the same specifications. Please note that sellers should accurately represent their product, any discrepancy could lead to severe penalties."
+"After cloning a catalog, what steps do I need to take before publishing the new catalog?
+","After cloning a catalog on the Government e-Marketplace (GeM), you should perform the following steps before publishing the new catalog:
+
+1. Review Catalog Details: The first step is to review the catalog details, ensure that the information copied is correct, and make necessary corrections if required.
+
+2. Edit Product Details: Check and revise the product details such as product name, brand, product specifications, pricing, and other related information.
+
+3. Update Images: If necessary, update the product images to match the products in the new catalog. Make sure that the images are clear and correctly represent the product.
+
+4. Review Shipping Details: Check if the shipping and delivery details are correct. Make appropriate changes to the shipping locations, charges, and delivery times.
+
+5. Compliance and Certification: Ensure the products meet the necessary compliances and certifications required for the specific category.
+
+6. Review and Edit Terms & Conditions: Review the terms and conditions of the new catalog. Edit any specific terms that you would like to change for the newly cloned catalog.
+
+7. Save and Submit for Approval: Once you're sure that all the details are accurate, save the changes and submit the catalog for approval. 
+
+Remember, you can only publish the catalog after it has been approved by the appropriate authority/entities based on GeM's standard operating procedures."
+"What restrictions are there in terms of making changes to specifications when cloning a catalog?
+","As a service provider on the Government e-Marketplace (GeM), when it comes to cloning a catalog, please take note that while some information can be changed, product specifications cannot be altered. This is to maintain consistency and accuracy of the products. If the specifications of your product have changed, it's recommended that you create a new catalog to reflect the new details. Remember, it's important to ensure the information you provide is accurate to avoid any inconsistencies or misinterpretations by the buyers."
+"When should I use the catalog pair functionality vs. cloning a catalog?
+","Catalog Pair functionality is used when you want to sell a product under different procurement categories without having to re-enter all the product details. It helps to create a link between two products belonging to two different procurement categories.
+
+On the other hand, the 'Clone a Catalog' feature is useful when you want to sell a similar product with minor variations such as color, size, brand etc. Cloning a catalog allows you to create a copy of an existing product catalog and modify the necessary details instead of creating a new product catalog from scratch. 
+
+In summary, use Catalog Pair functionality when dealing with different procurement categories. Use Cloning when dealing with similar products with minor variations. Both functionalities aim to save time and make catalog management more efficient."
+"Can I clone catalogs across different product categories or only within the same category?
+","Catalog cloning in Government e-Marketplace (GeM) can only be done within the same product category and not across different categories. For diverse product categories, separate catalogs need to be created with the relevant details."
+"Is there a limit to how many times I can clone an existing catalog?
+","No, there is no specific limitation on how many times you can clone an existing product catalog on GeM. However, please ensure that the catalog items and any other contributing parameters are in line with the GeM selling policies and guidelines."
+"Will cloning a catalog copy over all specifications or are some excluded?
+","When you clone a catalog in GeM, all product specifications, description, images and other details get copied to the new catalog. However, it does not copy over any contract or order related information related to the original product. This is specifically done to maintain the integrity and individuality of each order. Thus, each clone is treated as a new product offering. It is always a good practice to review the cloned details and make necessary adjustments according to the new product requirements before going live with the cloned catalog."
+"What happens if I try to publish a cloned catalog without making any changes to specifications?
+","If you attempt to publish a cloned catalog without making any changes in the specifications, you'll not be able to do so. The Government e-Marketplace (GeM) has policies against this behaviour in order to prevent redundancy and duplication. After cloning a product, you're required to ensure that you make necessary changes that reflect the uniqueness and distinctiveness of your own product. It's important that your product catalog clearly and accurately represents the products you're selling."
+"How long does it take to clone and publish a new catalog based on an existing one?
+","The time it takes to clone and publish a new catalog based on an existing one can vary based on a number of factors such as the complexity and size of the catalog, but typically the process is instantaneous upon confirmation. However, please note that the cloned catalog will still have to undergo the usual approval process in line with GeM's policy before it's published and visible to buyers. Please ensure all the details in the cloned catalog are correct and meet GeM's product/service listing guidelines."
+"If I clone a catalog and make changes, will it affect the original catalog at all or are they separate?
+","No, if you clone a catalog and make changes to the cloned one, it will not affect the original catalog. They are separate entities. The changes you make are applied to the cloned version only and leave the original catalog untouched."
+"When I publish a cloned catalog, will it completely replace the existing catalog or be published as a separate new catalog?
+","When you publish a cloned catalog, it will be published as a separate new product catalog and it will not replace the existing catalog. This feature enables sellers to create multiple catalogs for different offerings or variations without overriding previously created ones."
+"Is there a way to selectively choose which specifications get copied over when cloning versus copying everything?
+","As a GeM customer service bot, I would like to clarify that the feature to selectively choose which specifications get copied over when cloning a product does not currently exist. Normally, when you clone a product on GeM, all the details of that product will be copied, and you can then make modifications as needed. I encourage checking our website or contact our support for the most up-to-date platform capabilities and features."
+"Do any of the catalog IDs or SKUs get automatically changed when cloning a catalog or do I need to manually update them?
+","As a chatbot for GeM, I'd like to clarify that when you clone a product catalog, the system does not automatically change the Catalog IDs or SKUs. You will need to update them manually to avoid duplicates and ensure proper tracking. Each product on the GeM portal needs to have a unique SKU to distinguish it from other products. Please ensure you follow this process to keep everything in order."
+"Can I clone a catalog and directly edit the cloned version before publishing or do I have to publish first?
+","Yes, you can clone a catalog on GeM and directly edit the cloned version before publishing. You do not need to publish the catalog first. However, make sure to thoroughly review all the details including the product/service specifications, images, pricing, and terms and conditions before publishing it to ensure all information is accurate and up-to-date."
+"Is there a limit to how many catalogs I can clone from the same original catalog?
+","No, there is no specified limit for how many catalogs a seller can clone from the original catalog on Government e-Marketplace (GeM). You can clone catalogs as many times as needed to suit your product offerings. However, remember to update each cloned catalog with unique and accurate details of each product for transparency and better visibility."
+"If there are errors in the original catalog I clone from, will those errors transfer over to the cloned catalog?
+","Yes, if there are errors in the original catalog you clone from, those errors will be replicated in the cloned catalog as well. It is recommended to fix any errors in the original catalog before creating a clone to ensure that the cloned catalog is accurate and up-to-date. If you find an error after cloning, you'll have to correct it in both catalogs individually."
+"If I make updates to the original catalog later on, is there any way to sync those changes to the cloned catalogs?
+","No, updates made to the original catalog will not reflect in the cloned catalog. After you clone a catalog, it functions as a separate, independent entity. Therefore, any modifications that you wish to make in the cloned catalog should be done manually."
+"How can I track which catalogs originated as clones versus created manually?
+","As an AI chatbot for GeM, I'd like to inform you that the platform doesn't provide a direct mechanism for differentiating between manually created catalogs and cloned catalogs. However, you can maintain a manual record of clone catalogs by making use of the catalog description or any other metadata provided. You may note that a cloned catalog essentially has details taken from an already created catalog, to which you can add new or edited product specifics. Always check the latest guidelines and features from the GeM portal for any recent changes. Ensure to keep all your records and descriptions up to date to avoid confusion."
+Is cloning catalogs recommended as a standard practice or only in certain situations?,"Cloning catalogs in GeM can be useful and can save time if you are planning to sell products or services that are quite similar but with minor differences. It allows you to duplicate a catalog and then make minor modifications as necessary, instead of creating a completely new catalog from scratch. However, it's important to ensure the accuracy of data in cloned catalogs, as it could impact your credibility as a seller. Thus, cloning catalogs should be done carefully and perhaps only in cases of items or services with minor variations."
